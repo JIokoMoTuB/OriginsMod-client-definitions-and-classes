@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="DayZ">
+    <Package name="code">
+		<Key ID="STR_DAYZ_CODE_1">	
+			<Original>Take %1</Original>
+			<English>Take %1</English> 
+			<German>%1 nehmen</German>
+			<Russian>Взять %1</Russian>			
+		</Key>
+		<Key ID="STR_DAYZ_CODE_2">
+			<Original>You do not have enough room in your inventory</Original>
+			<English>You do not have enough room in your inventory</English>
+			<German>Du hast nicht genug Platz in deinem Inventar</German>
+			<Russian>У вас не хватает места в инвентаре.</Russian>
+		</Key>
+		<Key ID="STR_AUTHENTICATING">
+			<Original>Loading Character Data. Please wait.</Original>
+			<English>Loading Character Data. Please wait.</English>
+			<German>Lade Charakterdaten. Bitte warten.</German>
+			<Russian>Загружается персонаж. Пожалуйста, подождите.</Russian>
+		</Key>
+	</package>
+    <Package name="feedback">
+		<Key ID="str_success_cooked">
+			<Original>You have cooked %1 %2</Original>
+			<English>You have cooked %1 %2</English>
+			<German>Du hast %1 %2 gekocht</German>
+			<Russian>Вы приготовили: %1 %2</Russian>		
+		</Key>
+		<Key ID="str_success_tent_pack">
+			<Original>Your tent has been packed</Original>
+			<English>Your tent has been packed</English>
+			<German>Du hast dein Zelt eingepackt</German>
+			<Russian>Ваша палатка свернута.</Russian>
+		</Key>
+		<Key ID="str_success_tent_pack1">
+			<Original>Your Camping tent has been packed</Original>
+			<English>Your Camping tent has been packed</English>
+			<German>Du Zelt wurde verpackt</German>
+			<Russian>Ваша палатка для кемпинга была свернута.</Russian>
+		</Key>
+		<Key ID="str_success_tent_pack2">
+			<Original>Your Storage box has been packed</Original>
+			<English>Your Storage Box has been packed</English>
+			<German>Deine Aufbewahrungsbox wurde zusammengepackt</German>
+			<Russian>Ваша коробка для хранения собрана.</Russian>
+		</Key>
+		<Key ID="str_success_Cemix_pack">
+			<Original>%1 has been disassembled</Original>
+			<English>%1 has been disassembled</English>
+			<German>%1 wurde demontiert</German>
+			<Russian>%1 разобрана.</Russian>
+		</Key>
+		<Key ID="str_fail_tent_pack">
+			<Original>You cannot pack this, it is not yours</Original>
+			<English>You cannot pack this, it is not yours</English>
+			<German>Nicht möglich, dies ist nicht deins</German>
+			<Russian>Вы не можете упаковать, это не ваше.</Russian>
+		</Key>
+		<Key ID="str_fail_foundation_remove">
+			<Original>You cannot remove this, it is not yours</Original>
+			<English>You cannot remove this, it is not yours</English>
+			<German>Nicht möglich, dies ist nicht deins</German>
+			<Russian>Вы не можете разрушить, это не ваше.</Russian>
+		</Key>
+		<Key ID="str_success_tent_pitch">
+			<Original>You have pitched your tent</Original>
+			<English>You have pitched your tent</English>
+			<German>Du hast dein Zelt aufgebaut</German>
+			<Russian>Вы установили палатку.</Russian>
+		</Key>
+		<Key ID="str_success_tent_pitch1">
+			<Original>You have pitched your Camping tent</Original>
+			<English>You have pitched your Camping tent</English>
+			<German>Du hast dein Zelt erfolgreich aufgeschlagen</German>
+			<Russian>Вы установили палатку для кемпинга.</Russian>
+		</Key>
+		<Key ID="str_success_tent_pitch2">
+			<Original>You have pitched your Storage box</Original>
+			<English>You have pitched your Storage box</English>
+			<German>Du hast deine Aufbewahrungsbox erfolgreich aufgebaut</German>
+			<Russian>Вы установили палатку.</Russian>
+		</Key>
+		<Key ID="str_fail_tent_pitch">
+			<Original>You cannot place a Tent here. The area must be flat, and free of other objects</Original>
+			<English>You cannot place a Tent here. The area must be flat, and free of other objects</English>
+			<German>Du kannst hier kein Zelt aufbauen. Der Untergrund muss flach und frei sein</German>
+			<Russian>Палатку нужно ставить на ровную поверхность, без объектов поблизости.</Russian>
+		</Key>
+		<Key ID="str_player_consumed">
+			<Original>You have consumed a %1</Original>
+			<English>You have consumed a %1</English>
+			<German>Du hast ein(e) %1 verbraucht</German>
+			<Russian>Вы употребили: %1</Russian>
+		</Key>
+		<Key ID="str_fireplace_01">
+			<Original>You have created a fireplace</Original>
+			<English>You have created a fireplace</English>
+			<German>Du hast ein Feuer gemacht</German>
+			<Russian>Вы развели костер.</Russian>
+		</Key>
+		<Key ID="str_build_01">
+			<Original>You have set up a %1.</Original>
+			<English>You have set up a %1.</English>
+			<German>Du hast einen %1 aufgebaut.</German>
+			<Russian>Вы установили %1.</Russian>
+		</Key>
+		<Key ID="str_fireplace_02">
+			<Original>You cannot make a fireplace here. The area must be flat, and free of other objects</Original>
+			<English>You cannot make a fireplace here. The area must be flat, and free of other objects</English>
+			<German>Du kannst hier kein Feuer machen. Der Untergrund muss flach und frei sein</German>
+			<Russian>Костер нужно разводить на ровной поверхности, без объектов поблизости.</Russian>
+		</Key>
+		<Key ID="str_fireplace_removed">
+			<Original>Fireplace has been removed</Original>
+			<English>Fireplace has been removed</English>
+			<German>Die Feuerstelle wurde entfernt</German>
+			<Russian>Костер убран.</Russian>
+		</Key>
+		<Key ID="str_success_gutted_animal">
+			<Original>%1 has been gutted, %2 meat steaks now on the carcass</Original>
+			<English>%1 has been gutted, %2 meat steaks now on the carcass</English>
+			<German>Du hast %1 ausgenommen, %2 Stücke Fleisch sind im Kadaver</German>
+			<Russian>Вы разделали: %1. Доступно кусков мяса: %2</Russian>
+		</Key>
+		<Key ID="str_medical_healing">
+			<Original>You are being healed</Original>
+			<English>You are being healed</English>
+			<German>Du wirst geheilt</German>
+			<Russian>Вас лечат.</Russian>
+		</Key>
+		<Key ID="str_player_01">
+			<Original>You have filled %1 bottles with water</Original>
+			<English>You have filled %1 bottles with water</English>
+			<German>Du hast %1 Flasche(n) mit Wasser gefüllt</German>
+			<Russian>Наполнено фляжек с водой: %1</Russian>
+		</Key>
+		<Key ID="str_player_02">
+			<Original>You have no empty water bottles</Original>
+			<English>You have no empty water bottles</English>
+			<German>Du hast keine leeren Wasserflaschen</German>
+			<Russian>У вас нет пустых фляжек.</Russian>
+		</Key>
+		<Key ID="str_player_03">
+			<Original>You need a %1 to repair this</Original>
+			<English>You need a %1 to repair this</English>
+			<German>Du brauchst ein(e) %1, um das zu reparieren</German>
+			<Russian>Чтобы это починить, вам нужно: %1</Russian>
+		</Key>
+		<Key ID="str_player_03_reinf">
+			<Original>You need %1 to upgrade this</Original>
+			<English>You need %1 to upgrade this</English>
+			<German>Du benötigst %1 zum upgraden</German>
+			<Russian>Чтобы это улучшить, вам нужно: %1</Russian>
+		</Key>
+		<Key ID="str_player_04">
+			<Original>You have successfully attached the %1 on the %2</Original>
+			<English>You have successfully attached the %1 on the %2</English>
+			<German>Du hast erfolgreich ein(e) %1 an %2 angebracht</German>
+			<Russian>Вы успешно установили %1 на %2.</Russian>
+		</Key>
+		<Key ID="str_player_05">
+			<Original>%1 has been filled with %2 litres of Fuel</Original>
+			<English>%1 has been filled with %2 litres of Fuel</English>
+			<German>%1 wurde mit %2 Litern Treibstoff betankt</German>
+			<Russian>В %1 было залито %2 литров топлива.</Russian>
+		</Key>
+		<Key ID="str_player_06">
+			<Original>Day</Original>
+			<English>Day</English>
+			<German>Tag</German>
+			<Russian>День</Russian>		<!-- As in "Day 1" or "Day 10", how many days since character started -->
+		</Key>
+		<Key ID="str_player_07">
+			<Original>You last ate %2 minutes, and drank %3 minutes ago</Original>
+			<English>You last ate %2 minutes, and drank %3 minutes ago</English>
+			<German>Du hast zuletzt vor %2 Minuten gegessen und vor %3 Minuten getrunken</German>
+			<Russian>Последний раз вы ели %2 мин. назад, пили - %3 мин. назад.</Russian>
+		</Key>
+		<Key ID="str_player_08">
+			<Original>%1 Food and %2 water was used since your last login</Original>
+			<English>%1 Food and %2 water was used since your last login</English>
+			<German>Seit deinem letzten Login hast du %1 Einheiten Essen und %2 Flaschen Wasser verbraucht</German>
+			<Russian>С момента вашего последнего входа в игру вы съели еды: %1 и выпили воды: %2</Russian>
+		</Key>
+		<Key ID="str_player_09">
+			<Original>You have filled %1 jerrycans with fuel</Original>
+			<English>You have filled %1 jerrycans with fuel</English>
+			<German>Du hast %1 Kanister mit Treibstoff gefüllt</German>
+			<Russian>Наполнено топливом канистр: %1</Russian>
+		</Key>
+		<Key ID="str_player_10">
+			<Original>You have no empty jerry cans</Original>
+			<English>You have no empty jerry cans</English>
+			<German>Du hast keine leeren Kanister</German>
+			<Russian>У вас нет пустых канистр.</Russian>
+		</Key>
+		<Key ID="str_player_11">
+			<Original>You need to sit in the driver seat before you can repair this vehicle</Original>
+			<English>You need to sit in the driver seat before you can repair this vehicle</English>
+			<German>Du musst auf dem Fahrersitz sitzen, bevor du dieses Fahrzeug reparieren kannst!</German>
+			<Russian>Для ремонта требуется занять место водителя хотя бы раз.</Russian>
+		</Key>
+		<Key ID="str_player_12">
+			<Original>Please go to Player Selection Screen to continue in game</Original>
+			<English>Please go to Player Selection Screen to continue in game</English>
+			<German>Bitte gehe in die Rollenverteilung um dir einen neuen Charakter zu erstellen</German>
+			<Russian>Пожалуйста, выйдите в окно выбора игрока, чтобы продолжить игру</Russian>
+		</Key>
+		<Key ID="str_player_13">
+			<Original>Waiting for character to create</Original>
+			<English>Waiting for character to create</English>
+			<German>Warte auf Spielerdaten ...</German>
+			<Russian>Ожидание создания персонажа</Russian>
+		</Key>
+		<Key ID="str_player_14">
+			<Original>Retrying to Authenticate</Original>
+			<English>Retrying to Authenticate</English>
+			<German>Versuche erneut zu authentifizieren</German>
+			<Russian>Попытка аутентификации</Russian>
+		</Key>
+		<Key ID="str_player_15">
+			<Original>Requesting Authentication</Original>
+			<English>Requesting Authentication</English>
+			<German>Empfange Authentifizierung</German>
+			<Russian>Запрос аутентификации</Russian>
+		</Key>
+		<Key ID="str_player_16">
+			<Original>Waiting for server response</Original>
+			<English>Waiting for server response</English>
+			<German>Warte auf Antwort des Servers</German>
+			<Russian>Ожидание ответа сервера</Russian>
+		</Key>
+		<Key ID="str_player_17">
+			<Original>Server responded, creating character</Original>
+			<English>Server responded, creating character</English>
+			<German>Server antwortete, erstelle Charakter</German>
+			<Russian>Получен ответ от сервера. Идет создание персонажа</Russian>
+		</Key>
+		<Key ID="str_player_18">
+			<Original>You are running an incorrect version of OriginsMod, please download this file from www.OriginsMod.info (You are running version %1 and the server is running version %2)</Original>
+			<English>You are running an incorrect version of OriginsMod, please download this file from www.OriginsMod.info (You are running version %1 and the server is running version %2)</English>
+			<German>Du hast eine falsche Version von OriginsMod, bitte lade dir die neuste Version unter www.OriginsMod.info herunter</German>
+			<Russian>Вы используете неверную версию OriginsMod, пожалуйста, скачайте данный файл с www.OriginsMod.info (Ваша версия %1, версия на сервере %2)</Russian>
+		</Key>
+		<Key ID="str_player_19">
+			<Original>Waiting for Origins database cloud synchronization (at least 1 min.)</Original>
+			<English>Waiting for Origins database cloud synchronization (at least 1 min.)</English>
+			<German>Warte auf Origins Datenbank Cloud-Synchronisierung (mindestens 1 min.)</German>
+			<Russian>Ожидание синхронизации облачных баз данных Origins (примерно 1 мин.)</Russian>
+		</Key>
+    <Key ID="str_player_20">
+      <Original>You must be near a water-source such as a pond or well to refill your water bottles</Original>
+      <English>You must be near a water-source such as a pond or well to refill your water bottles</English>
+      <German>Du musst in der nähe einer Wasserquelle wie z.B. einem Teich sein, um deine Wasserflasche füllen zu können</German>
+      <Russian>Вы должны находиться возле водоема или источника воды, чтобы наполнить свои фляги.</Russian>
+    </Key>
+      <Key ID="str_player_21">
+        <Original>You cannot do this while you are on a ladder</Original>
+        <English>You cannot do this while you are on a ladder</English>
+        <German>Du kannst das nicht machen während du an einer Leiter bist</German>
+        <Russian>Вы не можете этого делать, пока поднимаетесь по лестнице.</Russian>
+      </Key>
+      <Key ID="str_player_22">
+        <Original>You must have wood in your inventory in order to create a fireplace</Original>
+        <English>You must have wood in your inventory in order to create a fireplace</English>
+        <German>Um ein Feuer machen zu können musst du auch Holz im Inventar haben</German>
+        <Russian>Для разведения костра у вас должны быть дрова.</Russian>
+      </Key>     
+      <Key ID="str_player_23">
+        <Original>You must be in a forest and close to a tree to harvest wood.</Original>
+        <English>You must be in a forest and close to a tree to harvest wood.</English>
+        <German>Sie müssen in einem Wald und nah an einem Baum sein zum um Feuerholz schlagen/sammeln zu können.</German>
+        <Russian>Вы должны находится в лесу и подойти к дереву, чтобы нарубить дров.</Russian>
+      </Key>
+      <Key ID="str_player_24">
+        <Original>You do not have enough room in your inventory to do that.</Original>
+        <English>You do not have enough room in your inventory to do that.</English>
+        <German>Dafür hast du nicht genug Platz in deinem Inventar.</German>
+        <Russian>У вас недостаточно места в инвентаре.</Russian>
+      </Key>
+      <Key ID="str_player_25">
+        <Original>A pile of wood has been successfully added to your inventory.</Original>
+        <English>A pile of wood has been successfully added to your inventory.</English>
+        <German>Das Feuerholz wurde erfolgreich zu deinem Inventar hinzugefügt.</German>
+        <Russian>Дрова добавлены в ваш инвентарь.</Russian>
+      </Key>
+      <Key ID="str_player_26">
+        <Original>You cannot do this while you are in the water.</Original>
+        <English>You cannot do this while you are in the water.</English>
+        <German>Das kannst du nicht machen während du im Wasser bist.</German>
+        <Russian>Это действие невозможно пока вы в воде.</Russian>
+      </Key>
+      <Key ID="str_player_27">
+        <Original>You have applied a heatpack to your body successfully.</Original>
+        <English>You have applied a heatpack to your body successfully.</English>
+        <German>Du hast das Wärmepad erfolgreich angewendet.</German>
+        <Russian>Вы успешно применили на вашем теле согревающий комплект.</Russian>
+      </Key>
+      <Key ID="str_player_28">
+        <Original>You cannot reload that combination, you need %1 %2 magazines.</Original>
+        <English>You cannot reload that combination, you need %1 %2 magazines.</English>
+        <German>Du kannst diese Kombination nicht nachladen, du brauchst %1 %2 Magazine.</German>
+        <Russian>Вы не можете перезарядить эту комбинацию. Вам необходимо иметь магазины %1 %2.</Russian>
+      </Key>
+      <Key ID="str_player_29">
+        <Original>You have successfully reloaded %1 %2 magazines.</Original>
+        <English>You have successfully reloaded %1 %2 magazines.</English>
+        <German>Du hast erfolgreich %1 %2 Magazine nachgeladen.</German>
+        <Russian>Магазины %1 %2 перезаряжены.</Russian>
+      </Key>
+     <Key ID="str_player_30">
+        <Original>%1 must be on your person to move it to/from your toolbelt.</Original>
+        <English>%1 must be on your person to move it to/from your toolbelt.</English>
+        <German>%1 muss ausgerüstet sein, um es zu/von deinem Wekzeuggürtel zu nehmen.</German>
+        <Russian>Для перемещения с/на пояс, предмет %1 должен быть у вас.</Russian>
+      </Key>
+      <Key ID="str_player_31">
+        <Original>%1,%2,%3 must be in your main inventory to pitch it.</Original>
+        <English>%1,%2,%3 must be in your main inventory to pitch it.</English>
+        <German>%1,%2,%3 muss in deinem Hauptinventar sein, um es aufzustellen.</German>
+        <Russian>Предмет %1,%2,%3 должен находиться в основном инвентаре чтобы установить его.</Russian>
+      </Key>
+	  <Key ID="str_player_32">
+        <Original>Rocks have been successfully added to your inventory.</Original>
+        <English>Rocks have been successfully added to your inventory.</English>
+        <German>Steine wurden erfolgreich Ihrem Inventar hinzugefügt.</German>
+        <Russian>Камни добавлены в ваш инвентарь.</Russian>
+      </Key>
+	  <Key ID="str_player_33">
+        <Original>You need to find a mine shaft to use this tool.</Original>
+        <English>You need to find a mine shaft to use this tool.</English>
+        <German>Sie müssen einen Minenschacht finden dieses Tool verwenden zu können.</German>
+        <Russian>Вам нужно найти шахту, чтобы использовать этот инструмент.</Russian>
+      </Key>
+	  <Key ID="str_player_34">
+        <Original>%1 must be in your main inventory.</Original>
+        <English>%1 must be in your main inventory.</English>
+        <German>%1 muss in deinem Hauptinventar sein.</German>
+        <Russian>Предмет %1 должен находиться в основном инвентаре.</Russian>
+      </Key>
+	  <Key ID="str_player_35">
+        <Original>You have successfully made Cinderblock.</Original>
+        <English>You have successfully made Cinderblock.</English>
+        <German>Du hast erfolgreich Betonziegel hergestellt.</German>
+        <Russian>Вы успешно сделали Шлакоблок.</Russian>
+      </Key>
+	  <Key ID="str_player_36">
+        <Original>You need 2 %1 and 2 %2 to make Cinderblock.</Original>
+        <English>You need 2 %1 and 2 %2 to make Cinderblock.</English>
+        <German>Du benötigst 2 %1 und 2 %2 um Betonziegel herstellen zu können.</German>
+        <Russian>Вам необходимо иметь 2 %1 и 2 %2 для Шлакоблока.</Russian>
+      </Key>
+	  <Key ID="str_player_37">
+		<Original>%2 liters of fuel have been drained from the %1</Original>
+		<English>%2 liters of fuel have been drained from the %1</English>
+		<German>%2 Liter Kraftstoff wurden aus dem %1 abgelassen</German>
+		<Russian>C %1 было cлито %2 литров топлива</Russian>
+	  </Key>
+	  <Key ID="str_player_38">
+		<Original>Tool %1 has snapped and is now unusable.</Original>
+		<English>Tool %1 has snapped and is now unusable.</English>
+		<German>Werkzeug %1 eingerastet und ist nun unbrauchbar</German>
+		<Russian>Инструмент %1 сломался и больше не может быть использован.</Russian>
+	  </Key>
+	  <Key ID="str_player_39">
+		<Original>You have successfully removed the %1 from %2</Original>
+		<English>You have successfully removed the %1 from %2</English>
+		<German>Sie haben erfolgreich die %1 von %2 entfernt</German>
+		<Russian>Вы успешно сняли %1 с %2</Russian>
+	  </Key>
+	  <Key ID="str_player_40">
+		<Original>Cannot remove %1 from %2, the part is too damaged</Original>
+		<English>Cannot remove %1 from %2, the part is too damaged</English>
+		<German>Kann nicht entfernt werden %1 von %2 wird das Teil stark beschädigt</German>
+		<Russian>Невозможно снять %1 с %2, часть сильно повреждена</Russian>
+	  </Key>
+	  <Key ID="str_player_41">
+		<Original>You need an %1 to use the pump!</Original>
+		<English>You need an %1 to use the pump!</English>
+		<German>Sie brauchen eine %1, um die Pumpe zu verwenden!</German>
+		<Russian>Вам нужна %1 что использовать насос</Russian>
+	  </Key>
+	  <Key ID="str_player_42">
+		<Original>Maintain Watchtower</Original>
+		<English>Maintain Watchtower</English>
+		<German>Watchtower warten</German>
+		<Russian>Обновить смотровую вышку</Russian>
+	  </Key>
+	  <Key ID="str_player_43">
+		<Original>Dig out and un-lock safe</Original>
+		<English>Dig out and un-lock safe</English>
+		<German>Safe ausgraben</German>
+		<Russian>Откопать и отомкнуть сэйф</Russian>
+	  </Key>
+	<Key ID="str_player_44">
+		<Original>Lock and bury safe</Original>
+		<English>Lock and bury safe</English>
+		<German>Safe eingraben</German>
+		<Russian>Замкнуть и закопать сэйф</Russian>
+	</Key>
+	<Key ID="str_player_45">
+		<Original>%1 ammo added.</Original>
+		<English>%1 ammo added.</English>
+		<German>%1 Munition hinzugefügt.</German>
+		<Russian>%1 магазин добавлен.</Russian>
+	</Key>
+	<Key ID="str_player_46">
+		<Original>You need %1 ammo for this vehicle.</Original>
+		<English>You need %1 ammo for this vehicle.</English>
+		<German>Du brauchst %1 Munition für dieses Fahrzeug.</German>
+		<Russian>Вам нужен %1 магазин для этой техники.</Russian>
+	</Key>
+	<Key ID="str_player_47">
+		<Original>Put on</Original>
+		<English>Put on</English>
+		<German>Anziehen</German>
+		<Russian>Надеть</Russian>
+	</Key>
+	<Key ID="str_player_48">
+		<Original>Take off</Original>
+		<English>Take off</English>
+		<German>Ausziehen</German>
+		<Russian>Снять</Russian>
+	</Key>
+	<Key ID="str_player_49">
+		<Original>Insert plate</Original>
+		<English>Insert plate</English>
+		<German>Platte hinzufügen</German>
+		<Russian>Вставить пластину</Russian>
+	</Key>
+	<Key ID="str_player_50">
+		<Original>Put in medkit</Original>
+		<English>Put in medkit</English>
+		<German>Ins Medikit legen</German>
+		<Russian>Положить в аптечку</Russian>
+	</Key>
+	<Key ID="str_player_51">
+		<Original>Take out</Original>
+		<English>Take out</English>
+		<German>Herausnehmen</German>
+		<Russian>Вытащить</Russian>
+	</Key>
+	<Key ID="str_player_52">
+		<Original>Carry medkit</Original>
+		<English>Carry medkit</English>
+		<German>Medikit tragen</German>
+		<Russian>Нести аптечку</Russian>
+	</Key>
+	  <Key ID="str_pluhPredni">
+			<Original>Upgrade front plow</Original>
+			<English>Upgrade front plow</English>
+			<German>Frontpflug hinzufügen</German>
+			<Russian>Улучшить передний плуг</Russian>
+	  </Key>
+	  <Key ID="str_kolaOchrana">
+			<Original>Upgrade wheel guards</Original>
+			<English>Upgrade wheel guards</English>
+			<German>Radabdeckungen hinzufügen</German>
+			<Russian>Улучшить защиту колёс</Russian>
+	  </Key>
+	  <Key ID="str_oknaOchrana">
+			<Original>Upgrade window guards</Original>
+			<English>Upgrade window guards</English>
+			<German>Seitenfenster verstärken</German>
+			<Russian>Улучшить защиту боковых окон</Russian>
+	  </Key>
+	  <Key ID="str_predniOknoOchrana">
+			<Original>Upgrade windshield guard</Original>
+			<English>Upgrade windshield guard</English>
+			<German>Windschutzscheibe verstärken</German>
+			<Russian>Улучшить защиту лобового стекла</Russian>
+	  </Key>
+	  <Key ID="str_player_needHelp">
+			<Original>To flip the %1 you need help at least 4 survivors.</Original>
+			<English>To flip the %1 you need help at least 4 survivors.</English>
+			<German>Um das %1 drehen zu können benötigst du Hilfe von mindestens 4 Überlebenden.</German>
+			<Russian>Чтобы перевернуть %1, вам нужна помощь из 4 выживших</Russian>
+	  </Key>
+	  
+      <Key ID="str_player_beinglooted">
+        <Original>%1 is already being looted by someone else.</Original>
+        <English>%1 is already being looted by someone else.</English>
+        <German>%1 wird bereits von jemand anderem gelootet.</German>
+        <Russian>%1 уже кто-то обыскивает.</Russian>
+      </Key>
+      <Key ID="str_player_beingpacked">
+        <Original>That tent is already being packed.</Original>
+        <English>That tent is already being packed.</English>
+        <German>Dieses Zelt ist bereits zusammengepackt.</German>
+        <Russian>Эту палатку уже упаковывают.</Russian>
+      </Key>
+	  <Key ID="str_player_beingpackMix">
+        <Original>That %1 is already being disassembled.</Original>
+        <English>That %1 is already being disassembled.</English>
+        <German>Dieser %1 ist bereits auseinandergebaut.</German>
+        <Russian>%1 уже разбирается.</Russian>
+      </Key>
+		<Key ID="str_player_studybody">
+			<Original>His name was %1, it appears he died from %2</Original>
+			<English>His name was %1, it appears he died from %2</English>
+			<German>%1 wurde von %2 getötet</German>
+			<Russian>Его звали %1, похоже что он умер от %2</Russian>
+		</Key>
+		<Key ID="str_death_shothead">
+			<Original>a gunshot to the head</Original>
+			<English>a gunshot to the head</English>
+			<German>Ein Kopfschuss</German>
+			<Russian>попадания пули в голову</Russian>
+		</Key>
+		<Key ID="str_death_shotheavy">
+			<Original>a high calibre gunshot</Original>
+			<English>a high calibre gunshot</English>
+			<German>Ein Einschlag eines Großkalibers</German>
+			<Russian>попадания пули большого калибра</Russian>
+		</Key>
+		<Key ID="str_death_bled">
+			<Original>blood loss</Original>
+			<English>blood loss</English>
+			<German>Blutverlust</German>
+			<Russian>потери крови</Russian>
+		</Key>
+		<Key ID="str_death_dehyd">
+			<Original>dehydration</Original>
+			<English>dehydration</English>
+			<German>Dehydration</German>
+			<Russian>обезвоживания</Russian>
+		</Key>
+		<Key ID="str_death_starve">
+			<Original>starvation</Original>
+			<English>starvation</English>
+			<German>Verhungern</German>
+			<Russian>голода</Russian>
+		</Key>
+		<Key ID="str_death_combatlog">
+			<Original>combat logging</Original>
+			<English>combat logging</English>
+			<German>combat logging</German>
+			<Russian>выхода из игры в режиме боя</Russian>
+		</Key>
+		<Key ID="str_death_unknown">
+			<Original>an unknown cause</Original>
+			<English>an unknown cause</English>
+			<German>ein unbekannter Grund</German>
+			<Russian>неизвестной причины</Russian>
+		</Key>
+	</Package>
+  <Package name="ui">
+    <Key ID="STR_UI_GENDER_TITLE">
+      <Original>SELECT YOUR GENDER</Original>
+      <English>SELECT YOUR GENDER</English>
+      <German>Wähle einen Charakter</German>
+      <Russian>Выберите свой пол</Russian>
+    </Key>
+	<Key ID="STR_UI_GENDER_DESC">
+	  <Original>Please select the gender you wish to play as. Your gender will be bound to this unique character and cannot be changed until you die.</Original>
+	  <English>Please select the gender you wish to play as. Your gender will be bound to this unique character and cannot be changed until you die.</English>
+	  <German>Bitte wähle einen Charakter aus mit dem du Spielen möchtest! Das kann später nicht mehr geändert werden. Erst wenn du gestorben bist kannst du einen neuen Charakter auswählen.</German>
+	  <Russian>Пожалуйста, выберите пол вашего персонажа. Учтите, вы не сможете изменить его в течении игры, до тех пор, пока не погибнете.</Russian>
+	</Key>
+    <Key ID="STR_UI_GENDER_MALE">
+      <Original>MALE</Original>
+      <English>MALE</English>
+      <German>Männlich</German>
+      <Russian>Мужчина</Russian>
+    </Key>
+    <Key ID="STR_UI_GENDER_FEMALE">
+      <Original>FEMALE</Original>
+      <English>FEMALE</English>
+      <German>Weiblich</German>
+      <Russian>Женщина</Russian>
+    </Key>
+     <Key ID="STR_UI_REGION_TITLE">
+      <Original>Select your start region</Original>
+      <English>Select your start region</English>
+      <German>Wähle eine Startregion aus</German>
+      <Russian>Выберете место старта</Russian>
+    </Key>
+    <Key ID="STR_UI_REGION_DESC">
+      <Original>Please select the region you want to start in. You will be assigned a random spawn position inside the area.</Original>
+      <English>Please select the region you want to start in. You will be assigned a random spawn position inside the area.</English>
+      <German>Wähle eine Startregion aus. Du wirst an einem zufälligen Punkt in der gewählten Region spawnen</German>
+      <Russian>Пожалуйста выберите область появления. Вам будет присвоено случайное место старта внутри этой области.</Russian>
+    </Key>
+    <Key ID="STR_UI_REGION_MALE">
+      <Original>Island Lesh</Original>
+      <English>Island Lesh</English>
+      <German>Insel Lesh</German>
+      <Russian>Остров Леш</Russian>
+    </Key>
+    <Key ID="STR_UI_REGION_FEMALE">
+      <Original>Island Bukvac</Original>
+      <English>Island Bukvac</English>
+      <German>Insel Bukvac</German>
+      <Russian>Остров Буквац</Russian>
+    </Key>
+  
+  </Package>
+	<Package name="actions">
+		<Key ID="str_actions_self_antibio">
+			<Original>Take Antibiotics</Original>
+			<English>Take Antibiotics</English>
+			<German>Antibiotikum einnehmen</German>
+			<Russian>Принять антибиотики</Russian>
+		</Key>
+		<Key ID="str_actions_self_04">
+			<Original>Gut Animal</Original>
+			<English>Gut Animal</English>
+			<German>Tier ausweiden</German>
+			<Russian>Разделать животное</Russian>
+		</Key>
+		<Key ID="str_actions_self_05">
+			<Original>Cook Meat</Original>
+			<English>Cook Meat</English>
+			<German>Fleisch zubereiten</German>
+			<Russian>Приготовить мясо</Russian>
+		</Key>
+		<Key ID="str_actions_self_06">
+			<Original>Remove fireplace</Original>
+			<English>Remove fireplace</English>
+			<German>Feuerplatz entfernen</German>
+			<Russian>Убрать костер</Russian>
+		</Key>
+		<Key ID="str_actions_self_07">
+			<Original>Pack</Original>
+			<English>Pack</English>
+			<German>Zelt</German>
+			<Russian>Упаковать</Russian>
+		</Key>
+		<Key ID="str_actions_self_08">
+			<Original>Drink Water</Original>
+			<English>Drink Water</English>
+			<German>Wasser trinken</German>
+			<Russian>Выпить воду</Russian>
+		</Key>
+		<Key ID="str_actions_self_09">
+			<Original>Fill Water</Original>
+			<English>Fill Water</English>
+			<German>Wasser abfüllen</German>
+			<Russian>Наполнить фляжки</Russian>
+		</Key>
+		<Key ID="str_actions_self_10">
+			<Original>Fill Jerrycan</Original>
+			<English>Fill Jerrycan</English>
+			<German>Benzinkanister füllen</German>
+			<Russian>Наполнить канистры</Russian>
+		</Key>
+		<Key ID="str_actions_self_11">
+			<Original>Disassemble %1</Original>
+			<English>Disassemble %1</English>
+			<German>Demontiere %1</German>
+			<Russian>Разобрать %1</Russian>
+		</Key>
+		<Key ID="str_actions_self_12">
+			<Original>Go to sleep</Original>
+			<English>Go to sleep</English>
+			<German>Schlafen gehen</German>
+			<Russian>Лечь спать</Russian>
+		</Key>
+		<Key ID="str_actions_medical_01">
+			<Original>Drag Body</Original>
+			<English>Drag Body</English>
+			<German>Körper ziehen</German>
+			<Russian>Тащить тело</Russian>
+		</Key>
+		<Key ID="str_actions_medical_02">
+			<Original>Check Pulse</Original>
+			<English>Check Pulse</English>
+			<German>Puls fühlen</German>
+			<Russian>Проверить пульс</Russian>
+		</Key>
+		<Key ID="str_actions_medical_03">
+			<Original>Load patient into %1</Original>
+			<English>Load patient into %1</English>
+			<German>Patient in %1 verladen</German>
+			<Russian>Загрузить раненного в %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_04">
+			<Original>Bandage Wounds</Original>
+			<English>Bandage Wounds</English>
+			<German>Wunden verbinden</German>
+			<Russian>Перевязать человеку раны</Russian>
+		</Key>
+		<Key ID="str_actions_medical_05">
+			<Original>Give Epinephrine</Original>
+			<English>Give Epinephrine</English>
+			<German>Epinephrin verabreichen</German>
+			<Russian>Сделать укол адреналина</Russian>
+		</Key>
+		<Key ID="str_actions_medical_06">
+			<Original>Give Morphine</Original>
+			<English>Give Morphine</English>
+			<German>Morphium verabreichen</German>
+			<Russian>Сделать укол морфия</Russian>
+		</Key>
+		<Key ID="str_actions_medical_07">
+			<Original>Give Painkillers</Original>
+			<English>Give Painkillers</English>
+			<German>Schmerzmittel verabreichen</German>
+			<Russian>Дать болеутоляющие</Russian>
+		</Key>
+		<Key ID="str_actions_medical_08">
+			<Original>Give Blood Transfusion</Original>
+			<English>Give Blood Transfusion</English>
+			<German>Bluttransfusion legen</German>
+			<Russian>Сделать человеку переливание крови</Russian>
+		</Key>
+		<Key ID="str_actions_medical_09">
+			<Original>&lt;t %2&gt;Repair %1&lt;/t&gt;</Original>
+			<English>&lt;t %2&gt;Repair %1&lt;/t&gt;</English>
+			<German>&lt;t %2&gt;%1 reparieren&lt;/t&gt;</German>
+			<Russian>&lt;t %2&gt;Отремонтировать %1&lt;/t&gt;</Russian>
+		</Key>
+		<Key ID="str_actions_medical_10">
+			<Original>Refuel %1</Original>
+			<English>Refuel %1</English>
+			<German>%1 betanken</German>
+			<Russian>Заправить %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_11">
+			<Original>Issue %1</Original>
+			<English>Issue %1</English>
+			<German>%1 ausrüsten</German>
+			<Russian>Установить %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_12">
+			<Original>Packup %1</Original>
+			<English>Packup %1</English>
+			<German>%1 einpacken</German>
+			<Russian>Разобрать %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_13">
+			<Original>Upgrade %1</Original>
+			<English>Upgrade %1</English>
+			<German>%1 verbessern</German>
+			<Russian>Улучшить %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_14">
+			<Original>Unload patients from %1</Original>
+			<English>Unload patients from %1</English>
+			<German>Patienten aus %1 ausladen</German>
+			<Russian>Вытащить раненных из %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_15">
+			<Original>Pickup %1</Original>
+			<English>Pickup %1</English>
+			<German>%1 aufheben</German>
+			<Russian>Взять %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_16">
+			<Original>Drop %1</Original>
+			<English>Drop %1</English>
+			<German>%1 fallen lassen</German>
+			<Russian>Выбросить %1</Russian>
+		</Key>
+		<Key ID="str_actions_medical_17">
+			<Original>Extinguish %1</Original>
+			<English>Extinguish %1</English>
+			<German>%1 löschen</German>
+			<Russian>Погасить %1</Russian>
+		</Key>
+		<Key ID="str_f_actions_1">
+			<Original>Refuel using hose</Original>
+			<English>Refuel using hose</English>
+			<German>Tanken mit Schlauch</German>
+			<Russian>Заправить исп. шланг</Russian>
+		</Key>
+		<Key ID="str_f_actions_2">
+			<Original>Attach hose</Original>
+			<English>Attach hose</English>
+			<German>Schlauch anbringen</German>
+			<Russian>Присоединить шланг</Russian>
+		</Key>
+		<Key ID="str_f_actions_3">
+			<Original>The hose can be attached only to the Refuel Truck</Original>
+			<English>The hose can be attached only to the Refuel Truck</English>
+			<German>Der Schlauch kann nur am Tankauto befestigt werden</German>
+			<Russian>Шланг может быть прикреплен только к Заправщику</Russian>
+		</Key>
+		<Key ID="str_f_actions_4">
+			<Original>The hose has been attached to the Refuel Truck</Original>
+			<English>The hose has been attached to the Refuel Truck</English>
+			<German>Der Schlauch wurde am Tankauto angebracht</German>
+			<Russian>Шланг прикреплен к Заправщику</Russian>
+		</Key>
+		<Key ID="str_f_actions_5">
+			<Original>The hose is not attached to the Refuel Truck</Original>
+			<English>The hose is not attached to the Refuel Truck</English>
+			<German>Der Schlauch ist nicht am Tankauto angebracht</German>
+			<Russian>Шланг не прикреплен к Заправщику</Russian>
+		</Key>
+		<Key ID="str_f_actions_6">
+			<Original>You are too far from the Refuel Truck</Original>
+			<English>You are too far from the Refuel Truck</English>
+			<German>Sie sind zu weit vom Tankauto entfernt.</German>
+			<Russian>Вы слишком далеко от Заправщика</Russian>
+		</Key>
+		<Key ID="str_f_actions_7">
+			<Original>The refuel trucks barrels are full</Original>
+			<English>The refuel trucks barrels are full</English>
+			<German>Die Fässer sind voll</German>
+			<Russian>Бочки заправщика полные</Russian>
+		</Key>
+		<Key ID="str_f_actions_8">
+			<Original>The refuel trucks barrels are empty</Original>
+			<English>The refuel trucks barrels are empty</English>
+			<German>Die Fässer sind leer</German>
+			<Russian>Бочки заправщика пустые</Russian>
+		</Key>
+		<Key ID="str_f_actions_9">
+			<Original>The towing cable can be attached to the Flying Fortress only.</Original>
+			<English>The towing cable can be attached to the Flying Fortress only.</English>
+			<German>Das Seil kann nur an der Flying Fortress angebracht werden.</German>
+			<Russian>Буксирный трос может быть присоединен только к Летающей Крепости.</Russian>
+		</Key>
+		<Key ID="str_f_actions_10">
+			<Original>The towing cable has been attached to the Flying Fortress.</Original>
+			<English>The towing cable has been attached to the Flying Fortress.</English>
+			<German>Das Seil wurde an der Flying Fortress befestigt.</German>
+			<Russian>Буксирный трос присоединен к Летающей Крепости.</Russian>
+		</Key>
+		<Key ID="str_f_actions_11">
+			<Original>Load vehicle to FF.</Original>
+			<English>Load vehicle to FF.</English>
+			<German>In die FF einladen.</German>
+			<Russian>Загрузить автомобиль в ЛК.</Russian>
+		</Key>
+		<Key ID="str_f_actions_12">
+			<Original>Connect towing cable to FF.</Original>
+			<English>Connect towing cable to FF.</English>
+			<German>Seil an die FF anbringen.</German>
+			<Russian>Присоединить буксирный трос к ЛК.</Russian>
+		</Key>
+		<Key ID="str_f_actions_13">
+			<Original>Unload vehicle from FF.</Original>
+			<English>Unload vehicle from FF.</English>
+			<German>Fahrzeug von der FF entladen.</German>
+			<Russian>Выгрузить технику из ЛК.</Russian>
+		</Key>
+		<Key ID="str_f_actions_14">
+			<Original>Lock Flying Fortress.</Original>
+			<English>Lock Flying Fortress.</English>
+			<German>Flying Fortress abschließen.</German>
+			<Russian>Заблокировать ЛК.</Russian>
+		</Key>
+		<Key ID="str_f_actions_15">
+			<Original>UnLock Flying Fortress.</Original>
+			<English>UnLock Flying Fortress.</English>
+			<German>Flying Fortress aufschließen.</German>
+			<Russian>Разблокировать ЛК.</Russian>
+		</Key>
+		<Key ID="str_f_actions_16">
+			<Original>Fill refuel truck.</Original>
+			<English>Fill refuel truck.</English>
+			<German>Tankauto auffüllen.</German>
+			<Russian>Заправить бочки заправщика.</Russian>
+		</Key>
+		<Key ID="str_f_actions_17">
+			<Original>Destroy GraveCross.</Original>
+			<English>Destroy GraveCross.</English>
+			<German>Kreuz zerstören.</German>
+			<Russian>Сломать крест.</Russian>
+		</Key>
+		<Key ID="str_f_actions_18">
+			<Original>Switch to main gunner.</Original>
+			<English>Switch to main gunner.</English>
+			<German>Auf Hauptgunner wechseln.</German>
+			<Russian>Сесть на место пулемётчика.</Russian>
+		</Key>
+		<Key ID="str_f_actions_19">
+			<Original>Switch to pilot.</Original>
+			<English>Switch to pilot.</English>
+			<German>Auf Pilotensitz wechseln.</German>
+			<Russian>Сесть на место пилота.</Russian>
+		</Key>
+		<Key ID="str_f_actions_20">
+			<Original>Switch to cargo.</Original>
+			<English>Switch to cargo.</English>
+			<German>Wechseln Sie zu Pilot.</German>
+			<Russian>Сесть на место пассажира.</Russian>
+		</Key>
+		<Key ID="str_f_actions_21">
+			<Original>Without a knife the chance of untying yourself is very small, you can become very exhausted.</Original>
+			<English>Without a knife the chance of untying yourself is very small, you can become very exhausted.</English>
+			<German>Ohne ein Messer ist es unwahrscheinlich dich selbst zu befreien, du wirst schnell erschöpft.</German>
+			<Russian>Без ножа шанс развязатьcя очень мал, вы можете сильно устать.</Russian>
+		</Key>
+		<Key ID="str_f_actions_22">
+			<Original>Crack the locker</Original>
+			<English>Crack the locker</English>
+			<German>Schloss knacken</German>
+			<Russian>Взоломать замок</Russian>
+		</Key>
+		<Key ID="str_f_actions_23">
+			<Original>Untie survivor</Original>
+			<English>Untie survivor</English>
+			<German>Fesseln lösen</German>
+			<Russian>Pазвязать выжившего</Russian>
+		</Key>
+		<Key ID="str_f_actions_24">
+			<Original>Tie survivor</Original>
+			<English>Tie survivor</English>
+			<German>Fesseln anbringen</German>
+			<Russian>Связать выжившего</Russian>
+		</Key>
+		<Key ID="str_f_actions_25">
+			<Original>Try to untie yourself</Original>
+			<English>Try to untie yourself</English>
+			<German>Versuche die Fesseln zu lösen</German>
+			<Russian>Попробовать развязаться</Russian>
+		</Key>
+		<Key ID="str_f_actions_26">
+			<Original>Team members</Original>
+			<English>Team members</English>
+			<German>Team-Mitglieder</German>
+			<Russian>Члены команды</Russian>
+		</Key>
+		<Key ID="str_f_actions_27">
+			<Original>Un-lock house, open doors</Original>
+			<English>Un-lock house, open doors</English>
+			<German>Haus aufschließen, Türen öffnen</German>
+			<Russian>Отомкнуть дом, открыть двери</Russian>
+		</Key>
+		<Key ID="str_f_actions_28">
+			<Original>Lock house, close doors</Original>
+			<English>Lock house, close doors</English>
+			<German>Haus abschließen, Türen schließen</German>
+			<Russian>Замкнуть дом, закрыть двери</Russian>
+		</Key>
+		<Key ID="str_f_actions_29">
+			<Original>Build dirt fence</Original>
+			<English>Build dirt fence</English>
+			<German>Erdwall bauen</German>
+			<Russian>Построить земляной забор</Russian>
+		</Key>
+		<Key ID="str_f_actions_30">
+			<Original>Demolish</Original>
+			<English>Demolish</English>
+			<German>Zerstören</German>
+			<Russian>Разрушить</Russian>
+		</Key>
+		<Key ID="str_f_actions_31">
+			<Original>You need %2 more %1 to paint this vehicle.</Original>
+			<English>You need %2 more %1 to paint this vehicle.</English>
+			<German>Sie benötigen mehr %2 %1, um dieses Fahrzeug anzumalen.</German>
+			<Russian>Не хватает %2 %1 для покраски транспорта.</Russian>
+		</Key>
+		<Key ID="str_f_actions_32">
+			<Original>Vehicle successfully painted.</Original>
+			<English>Vehicle successfully painted.</English>
+			<German>Fahrzeug erfolgreich angemalt.</German>
+			<Russian>Транспорт успешно покрашен.</Russian>
+		</Key>
+		<Key ID="str_f_actions_33">
+			<Original>Paint in blue color.</Original>
+			<English>Paint in blue color.</English>
+			<German>Blau einfärben.</German>
+			<Russian>Покрасить в синий цвет.</Russian>
+		</Key>
+		<Key ID="str_f_actions_34">
+			<Original>Paint in pink color.</Original>
+			<English>Paint in pink color.</English>
+			<German>Pink einfärben.</German>
+			<Russian>Покрасить в розовый цвет.</Russian>
+		</Key>
+		<Key ID="str_f_actions_35">
+			<Original>Paint in black color.</Original>
+			<English>Paint in black color.</English>
+			<German>Schwarz einfärben.</German>
+			<Russian>Покрасить в чёрный цвет.</Russian>
+		</Key>
+		<Key ID="str_f_actions_36">
+			<Original>Paint in red color.</Original>
+			<English>Paint in red color.</English>
+			<German>Rot einfärben.</German>
+			<Russian>Покрасить в красный цвет.</Russian>
+		</Key>
+		<Key ID="str_f_actions_37">
+			<Original>Paint in yellow color.</Original>
+			<English>Paint in yellow color.</English>
+			<German>Gelb einfärben.</German>
+			<Russian>Покрасить в жёлтый цвет.</Russian>
+		</Key>
+		<Key ID="str_f_actions_38">
+			<Original>Paint in woodland camo.</Original>
+			<English>Paint in woodland camo.</English>
+			<German>Mit Waldtarnmuster lackieren.</German>
+			<Russian>Покрасить в лесной камуфляж.</Russian>
+		</Key>
+		<Key ID="str_f_actions_39">
+			<Original>Paint in urban camo.</Original>
+			<English>Paint in urban camo.</English>
+			<German>Mit Stadttarnmuster lackieren.</German>
+			<Russian>Покрасить в городской камуфляж.</Russian>
+		</Key>
+		<Key ID="str_f_actions_rear">
+			<Original>rear</Original>
+			<English>rear</English>
+			<German>hinterer</German>
+			<Russian>кузов</Russian>
+		</Key>
+		<Key ID="str_f_actions_40">
+			<Original>Special:</Original>
+			<English>Special:</English>
+			<German>Special:</German>
+			<Russian>Спец.:</Russian>
+		</Key>
+		<Key ID="str_f_actions_41">
+			<Original>Yellow racing</Original>
+			<English>Yellow racing</English>
+			<German>gelb racing</German>
+			<Russian>Жёлтая гоночная</Russian>
+		</Key>
+		<Key ID="str_f_actions_42">
+			<Original>Grim Reaper</Original>
+			<English>Grim Reaper</English>
+			<German>Sensenmann</German>
+			<Russian>Жнец</Russian>
+		</Key>
+		<Key ID="str_f_actions_43">
+			<Original>Southern</Original>
+			<English>Southern</English>
+			<German>südlich</German>
+			<Russian>Южный</Russian>
+		</Key>
+		<Key ID="str_f_actions_44">
+			<Original>Superman</Original>
+			<English>Superman</English>
+			<German>Superman</German>
+			<Russian>Супермен</Russian>
+		</Key>
+		<Key ID="str_f_actions_45">
+			<Original>Canada</Original>
+			<English>Canada</English>
+			<German>Canada</German>
+			<Russian>Канада</Russian>
+		</Key>
+		<Key ID="str_f_actions_46">
+			<Original>USA</Original>
+			<English>USA</English>
+			<German>USA</German>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="str_f_actions_47">
+			<Original>Racing car</Original>
+			<English>Racing car</English>
+			<German>Rennwagen</German>
+			<Russian>Гоночная</Russian>
+		</Key>
+		<Key ID="str_f_actions_48">
+			<Original>USSR Racing car</Original>
+			<English>USSR Racing car</English>
+			<German>UdSSR Rennwagen</German>
+			<Russian>Гоночная СССР</Russian>
+		</Key>
+		<Key ID="str_f_actions_49">
+			<Original>Dora</Original>
+			<English>Dora</English>
+			<German>Dora</German>
+			<Russian>Дора</Russian>
+		</Key>
+		<Key ID="str_f_actions_50">
+			<Original>Australia</Original>
+			<English>Australia</English>
+			<German>Australien</German>
+			<Russian>Австралия</Russian>
+		</Key>
+		<Key ID="str_f_actions_51">
+			<Original>German</Original>
+			<English>German</English>
+			<German>Deutsch</German>
+			<Russian>Германия</Russian>
+		</Key>
+		<Key ID="str_f_actions_52">
+			<Original>USA</Original>
+			<English>USA</English>
+			<German>USA</German>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="str_f_actions_53">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirate</German>
+			<Russian>Пираты</Russian>
+		</Key>
+		<Key ID="str_f_actions_54">
+			<Original>Rasta</Original>
+			<English>Rasta</English>
+			<German>Rasta</German>
+			<Russian>Раста</Russian>
+		</Key>
+		<Key ID="str_f_actions_55">
+			<Original>Girl</Original>
+			<English>Girl</English>
+			<German>Mädchen</German>
+			<Russian>Девица</Russian>
+		</Key>
+		<Key ID="str_f_actions_56">
+			<Original>Graffiti</Original>
+			<English>Graffiti</English>
+			<German>Graffiti</German>
+			<Russian>Граффити</Russian>
+		</Key>
+		<Key ID="str_f_actions_57">
+			<Original>Iron Maiden</Original>
+			<English>Iron Maiden</English>
+			<German>Iron Maiden</German>
+			<Russian>Iron Maiden</Russian>
+		</Key>
+		<Key ID="str_f_actions_58">
+			<Original>USA</Original>
+			<English>USA</English>
+			<German>USA</German>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="str_f_actions_59">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirate</German>
+			<Russian>Пираты</Russian>
+		</Key>
+		<Key ID="str_f_actions_60">
+			<Original>USA</Original>
+			<English>USA</English>
+			<German>USA</German>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="str_f_actions_61">
+			<Original>Blue indigo</Original>
+			<English>Blue indigo</English>
+			<German>Blau indigo</German>
+			<Russian>Синий Индиго</Russian>
+		</Key>
+		<Key ID="str_f_actions_62">
+			<Original>Marijuana</Original>
+			<English>Marijuana</English>
+			<German>Marihuana</German>
+			<Russian>Марихуана</Russian>
+		</Key>
+		<Key ID="str_f_actions_63">
+			<Original>Fire</Original>
+			<English>Fire</English>
+			<German>Feuer</German>
+			<Russian>Огненный</Russian>
+		</Key>
+		<Key ID="str_f_actions_64">
+			<Original>Blue flame</Original>
+			<English>Blue flame</English>
+			<German>Blaue Flammen</German>
+			<Russian>Голубое пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_65">
+			<Original>Flowers</Original>
+			<English>Flowers</English>
+			<German>Blumen</German>
+			<Russian>Цветочный</Russian>
+		</Key>
+		<Key ID="str_f_actions_66">
+			<Original>Black flames</Original>
+			<English>Black flames</English>
+			<German>Schwarze Flammen</German>
+			<Russian>Чёрное пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_67">
+			<Original>Marijuana</Original>
+			<English>Marijuana</English>
+			<German>Marijuana</German>
+			<Russian>Марихуана</Russian>
+		</Key>
+		<Key ID="str_f_actions_68">
+			<Original>Red flames</Original>
+			<English>Red flames</English>
+			<German>Rote Flammen</German>
+			<Russian>Красное пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_69">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirat</German>
+			<Russian>Пираты</Russian>
+		</Key>
+		<Key ID="str_f_actions_70">
+			<Original>USA</Original>
+			<English>USA</English>
+			<German>USA</German>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="str_f_actions_71">
+			<Original>Russian</Original>
+			<English>Russian</English>
+			<German>Russisch</German>
+			<Russian>Россия</Russian>
+		</Key>
+		<Key ID="str_f_actions_72">
+			<Original>Jamaica</Original>
+			<English>Jamaica</English>
+			<German>Jamaica</German>
+			<Russian>Ямайка</Russian>
+		</Key>
+		<Key ID="str_f_actions_73">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirate</German>
+			<Russian>Пираты</Russian>
+		</Key>
+		<Key ID="str_f_actions_74">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirate</German>
+			<Russian>Пираты</Russian>
+		</Key>
+		<Key ID="str_f_actions_75">
+			<Original>Novistrana racing</Original>
+			<English>Novistrana racing</English>
+			<German>Novistrana racing</German>
+			<Russian>Новистрана гоночная</Russian>
+		</Key>
+		<Key ID="str_f_actions_76">
+			<Original>East German</Original>
+			<English>East German</English>
+			<German>DDR</German>
+			<Russian>Восточная Германия</Russian>
+		</Key>
+		<Key ID="str_f_actions_77">
+			<Original>Yellow flames</Original>
+			<English>Yellow flames</English>
+			<German>Gelbe Flammen</German>
+			<Russian>Жёлтое пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_78">
+			<Original>Blue flames</Original>
+			<English>Blue flames</English>
+			<German>Blaue Flammen</German>
+			<Russian>Синее пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_79">
+			<Original>Green flames</Original>
+			<English>Green flames</English>
+			<German>grünen Flammen</German>
+			<Russian>Зелёное пламя</Russian>
+		</Key>	
+		<Key ID="str_f_actions_80">
+			<Original>Build gate</Original>
+			<English>Build gate</English>
+			<German>Tor bauen</German>
+			<Russian>Построить ворота</Russian>
+		</Key>
+		<Key ID="str_f_actions_81">
+			<Original>Unlock gate, open gate</Original>
+			<English>Unlock gate, open gate</English>
+			<German>Tor aufschließen und öffnen</German>
+			<Russian>Отомкнуть ворота, открыть ворота</Russian>
+		</Key>
+		<Key ID="str_f_actions_82">
+			<Original>Lock gate, close gate</Original>
+			<English>Lock gate, close gate</English>
+			<German>Tor abschließen und schließen</German>
+			<Russian>Заблокировать ворота, закрыть ворота</Russian>
+		</Key>
+		<Key ID="str_f_actions_83">
+			<Original>%1%2 completed. Produced %3/%4</Original>
+			<English>%1%2 completed. Produced %3/%4</English>
+			<German>%1%2 abgeschlossen. produziert %3/%4</German>
+			<Russian>%1%2 выполнено. Произведено %3/%4</Russian>
+		</Key>
+		<Key ID="str_f_actions_84">
+			<Original>The process has been interrupted</Original>
+			<English>The process has been interrupted</English>
+			<German>Der Prozess wurde unterbrochen</German>
+			<Russian>Процесс был прерван</Russian>
+		</Key>
+		<Key ID="str_f_actions_85">
+			<Original>You need to stay near %1</Original>
+			<English>You need to stay near %1</English>
+			<German>Du musst dich in der nähe von %1 aufhalten</German>
+			<Russian>Вы должны находится около %1</Russian>
+		</Key>
+		
+		
+		<Key ID="str_f_actions_86">
+			<Original>Zebra</Original>
+			<English>Zebra</English>
+			<German>Zebra</German>
+			<Russian>Зебра</Russian>
+		</Key>
+		<Key ID="str_f_actions_87">
+			<Original>Tiger</Original>
+			<English>Tiger</English>
+			<German>Tiger</German>
+			<Russian>Тигр</Russian>
+		</Key>
+		<Key ID="str_f_actions_88">
+			<Original>Warmelion</Original>
+			<English>Warmelion</English>
+			<German>Warmelion</German>
+			<Russian>Warmelion</Russian>
+		</Key>
+		<Key ID="str_f_actions_89">
+			<Original>Redelion</Original>
+			<English>Redelion</English>
+			<German>Redelion</German>
+			<Russian>Redelion</Russian>
+		</Key>
+		<Key ID="str_f_actions_90">
+			<Original>Medic</Original>
+			<English>Medic</English>
+			<German>Medic</German>
+			<Russian>Medic</Russian>
+		</Key>
+		<Key ID="str_f_actions_91">
+			<Original>Khokhloma</Original>
+			<English>Khokhloma</English>
+			<German>Khokhloma</German>
+			<Russian>Хохлома</Russian>
+		</Key>
+
+		<Key ID="str_f_actions_92">
+			<Original>Kamikaze</Original>
+			<English>Kamikaze</English>
+			<German>Kamikaze</German>
+			<Russian>Камикадзе</Russian>
+		</Key>  
+		<Key ID="str_f_actions_93">
+			<Original>Taviana</Original>
+			<English>Taviana</English>
+			<German>Taviana</German>
+			<Russian>Тавиана</Russian>
+		</Key>
+		<Key ID="str_f_actions_94">
+			<Original>Marine camo</Original>
+			<English>Marine camo</English>
+			<German>Marine camo</German>
+			<Russian>Морской камуфляж</Russian>
+		</Key>		
+		<Key ID="str_f_actions_95">
+			<Original>Superman</Original>
+			<English>Superman</English>
+			<German>Superman</German>
+			<Russian>Супермен</Russian>
+		</Key>  
+		<Key ID="str_f_actions_96">
+			<Original>USA</Original>
+			<English>USA</English>
+			<German>USA</German>
+			<Russian>США</Russian>
+		</Key>
+		<Key ID="str_f_actions_97">
+			<Original>Tiger</Original>
+			<English>Tiger</English>
+			<German>Tiger</German>
+			<Russian>Тигр</Russian>
+		</Key>
+		<Key ID="str_f_actions_98">
+			<Original>Russian Bear</Original>
+			<English>Russian Bear</English>
+			<German>Russischer Bär</German>
+			<Russian>Русский медведь</Russian>
+		</Key>
+		<Key ID="str_f_actions_99">
+			<Original>Rainbow Dash</Original>
+			<English>Rainbow Dash</English>
+			<German>Rainbow Dash</German>
+			<Russian>Радуга Дэш</Russian>
+		</Key>
+		<Key ID="str_f_actions_100">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirat</German>
+			<Russian>Пираты</Russian>
+		</Key>
+		<Key ID="str_f_actions_101">
+			<Original>Germany</Original>
+			<English>Germany</English>
+			<German>Deutschland</German>
+			<Russian>Германия</Russian>
+		</Key>
+		<Key ID="str_f_actions_102">
+			<Original>Pikachu</Original>
+			<English>Pikachu</English>
+			<German>Pikachu</German>
+			<Russian>Пикачу</Russian>
+		</Key>  
+		<Key ID="str_f_actions_103">
+			<Original>French</Original>
+			<English>French</English>
+			<German>Französisch</German>
+			<Russian>Франция</Russian>
+		</Key>  
+		<Key ID="str_f_actions_104">
+			<Original>Germany</Original>
+			<English>Germany</English>
+			<German>Deutschland</German>
+			<Russian>Германия</Russian>
+		</Key> 
+		<Key ID="str_f_actions_105">
+			<Original>Canada</Original>
+			<English>Canada</English>
+			<German>Kanada</German>
+			<Russian>Канада</Russian>
+		</Key> 
+		<Key ID="str_f_actions_106">
+			<Original>MCHS</Original>
+			<English>MCHS</English>
+			<German>MCHS</German>
+			<Russian>МЧС</Russian>
+		</Key>  
+		<Key ID="str_f_actions_107">
+			<Original>Medic</Original>
+			<English>Medic</English>
+			<German>Medic</German>
+			<Russian>Медицинский</Russian>
+		</Key>  
+		<Key ID="str_f_actions_108">
+			<Original>Peace</Original>
+			<English>Peace</English>
+			<German>Peace</German>
+			<Russian>Мир</Russian>
+		</Key> 
+		<Key ID="str_f_actions_109">
+			<Original>Poland</Original>
+			<English>Poland</English>
+			<German>Polen</German>
+			<Russian>Польша</Russian>
+		</Key>  
+		<Key ID="str_f_actions_110">
+			<Original>Russia</Original>
+			<English>Russia</English>
+			<German>Russland</German>
+			<Russian>Россия</Russian>
+		</Key>  
+		<Key ID="str_f_actions_111">
+			<Original>Serbia</Original>
+			<English>Serbia</English>
+			<German>Serbien</German>
+			<Russian>Сербия</Russian>
+		</Key>  
+		<Key ID="str_f_actions_112">
+			<Original>Marine camo</Original>
+			<English>Marine camo</English>
+			<German>Marine camo</German>
+			<Russian>Морской камуфляж</Russian>
+		</Key>
+		<Key ID="str_f_actions_113">
+			<Original>Taviana</Original>
+			<English>Taviana</English>
+			<German>Taviana</German>
+			<Russian>Тавиана</Russian>
+		</Key>
+		<Key ID="str_f_actions_114">
+			<Original>Ukraine camo</Original>
+			<English>Ukraine camo</English>
+			<German>Ukraine camo</German>
+			<Russian>Украина</Russian>
+		</Key>
+		<Key ID="str_f_actions_115">
+			<Original>Marine camo</Original>
+			<English>Marine camo</English>
+			<German>Marine camo</German>
+			<Russian>Морской камуфляж</Russian>
+		</Key>
+		<Key ID="str_f_actions_116">
+			<Original>Melon</Original>
+			<English>Melon</English>
+			<German>Melon</German>
+			<Russian>Арбуз</Russian>
+		</Key>
+		<Key ID="str_f_actions_117">
+			<Original>Old school</Original>
+			<English>Old school</English>
+			<German>Old school</German>
+			<Russian>Старая школа</Russian>
+		</Key>
+		<Key ID="str_f_actions_118">
+			<Original>Newspaper</Original>
+			<English>Newspaper</English>
+			<German>Nachrichten</German>
+			<Russian>Газета</Russian>
+		</Key>		
+		<Key ID="str_f_actions_119">
+			<Original>Legendary</Original>
+			<English>Legendary</English>
+			<German>Legendär</German>
+			<Russian>Легендарный</Russian>
+		</Key>  
+		<Key ID="str_f_actions_120">
+			<Original>BadAss</Original>
+			<English>BadAss</English>
+			<German>BadAss</German>
+			<Russian>Крутой</Russian>
+		</Key>  		
+		<Key ID="str_f_actions_121">
+			<Original>Medic</Original>
+			<English>Medic</English>
+			<German>Medic</German>
+			<Russian>Медицинский</Russian>
+		</Key>  
+		<Key ID="str_f_actions_122">
+			<Original>Fluttershy</Original>
+			<English>Fluttershy</English>
+			<German>Fluttershy</German>
+			<Russian>Флаттершай</Russian>
+		</Key>		
+		
+		<Key ID="str_f_actions_123">
+			<Original>Fire Brigade</Original>
+			<English>Fire Brigade</English>
+			<German>Feuerwehr</German>
+			<Russian>Пожарная</Russian>
+		</Key>	
+		<Key ID="str_f_actions_124">
+			<Original>Ghostbusters</Original>
+			<English>Ghostbusters</English>
+			<German>Ghostbusters</German>
+			<Russian>Охотники за привидениями</Russian>
+		</Key>
+		<Key ID="str_f_actions_125">
+			<Original>Butterflies</Original>
+			<English>Butterflies</English>
+			<German>Schmetterlinge</German>
+			<Russian>Бабочки</Russian>
+		</Key>
+		<Key ID="str_f_actions_126">
+			<Original>Airport</Original>
+			<English>Airport</English>
+			<German>Flughafen</German>
+			<Russian>Аэропорт</Russian>
+		</Key>
+		<Key ID="str_f_actions_127">
+			<Original>Scooby Doo</Original>
+			<English>Scooby Doo</English>
+			<German>Scooby Doo</German>
+			<Russian>Скуби Ду</Russian>
+		</Key>
+		<Key ID="str_f_actions_128">
+			<Original>Ambulance</Original>
+			<English>Ambulance</English>
+			<German>Ambulanz</German>
+			<Russian>Скорая Помощь</Russian>
+		</Key>
+		<Key ID="str_f_actions_129">
+			<Original>Totoro</Original>
+			<English>Totoro</English>
+			<German>Totoro</German>
+			<Russian>Тоторо</Russian>
+		</Key>
+		<Key ID="str_f_actions_130">
+			<Original>Rasta</Original>
+			<English>Rasta</English>
+			<German>Rasta</German>
+			<Russian>Раста</Russian>
+		</Key>
+		<Key ID="str_f_actions_131">
+			<Original>Nu Pogodi</Original>
+			<English>Nu Pogodi</English>
+			<German>Nu Pogodi</German>
+			<Russian>Ну Погоди</Russian>
+		</Key>
+		<Key ID="str_f_actions_132">
+			<Original>Police</Original>
+			<English>Police</English>
+			<German>Polizei</German>
+			<Russian>Полиция</Russian>
+		</Key>
+		<Key ID="str_f_actions_133">
+			<Original>Red Army</Original>
+			<English>Red Army</English>
+			<German>Rote Armee</German>
+			<Russian>Красная Армия</Russian>
+		</Key>
+		<Key ID="str_f_actions_134">
+			<Original>White</Original>
+			<English>White</English>
+			<German>Weiß</German>
+			<Russian>Белый</Russian>
+		</Key>
+		<Key ID="str_f_actions_135">
+			<Original>Superman</Original>
+			<English>Superman</English>
+			<German>Superman</German>
+			<Russian>Супермен</Russian>
+		</Key>
+		<Key ID="str_f_actions_136">
+			<Original>Flames</Original>
+			<English>Flames</English>
+			<German>Flammen</German>
+			<Russian>Пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_137">
+			<Original>Dont Open Door</Original>
+			<English>Dont Open Door</English>
+			<German>Tür nicht öffnen</German>
+			<Russian>Не открывать</Russian>
+		</Key>
+		<Key ID="str_f_actions_138">
+			<Original>Pirate</Original>
+			<English>Pirate</English>
+			<German>Pirat</German>
+			<Russian>Пират</Russian>
+		</Key>
+		<Key ID="str_f_actions_139">
+			<Original>Skulls</Original>
+			<English>Skulls</English>
+			<German>Schädel</German>
+			<Russian>Черепа</Russian>
+		</Key>
+		<Key ID="str_f_actions_140">
+			<Original>Flames</Original>
+			<English>Flames</English>
+			<German>Schablonen</German>
+			<Russian>Пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_141">
+			<Original>Ghostbusters</Original>
+			<English>Ghostbusters</English>
+			<German>Ghostbusters</German>
+			<Russian>Охотники за привидениями</Russian>
+		</Key>
+		<Key ID="str_f_actions_142">
+			<Original>General Lee</Original>
+			<English>General Lee</English>
+			<German>General Lee</German>
+			<Russian>Генерал Ли</Russian>
+		</Key>
+		<Key ID="str_f_actions_143">
+			<Original>Race</Original>
+			<English>Race</English>
+			<German>Rennen</German>
+			<Russian>Гонщик</Russian>
+		</Key>
+		<Key ID="str_f_actions_144">
+			<Original>Race 2</Original>
+			<English>Race 2</English>
+			<German>Rennen 2</German>
+			<Russian>Гонщик 2</Russian>
+		</Key>
+		<Key ID="str_f_actions_145">
+			<Original>Skulls</Original>
+			<English>Skulls</English>
+			<German>Schädel</German>
+			<Russian>Черепа</Russian>
+		</Key>
+		<Key ID="str_f_actions_146">
+			<Original>Dont Open Door</Original>
+			<English>Dont Open Door</English>
+			<German>Tür nicht öffnen</German>
+			<Russian>Не открывать</Russian>
+		</Key>
+		<Key ID="str_f_actions_147">
+			<Original>Flames</Original>
+			<English>Flames</English>
+			<German>Flammen</German>
+			<Russian>Пламя</Russian>
+		</Key>
+		<Key ID="str_f_actions_148">
+			<Original>Happy 3 friends</Original>
+			<English>Happy 3 friends</English>
+			<German>Happy 3 friends</German>
+			<Russian>Happy 3 friends</Russian>
+		</Key>
+		<Key ID="str_f_actions_149">
+			<Original>Zombie</Original>
+			<English>Zombie</English>
+			<German>Zombie</German>
+			<Russian>Зомби</Russian>
+		</Key>
+		<Key ID="str_f_actions_150">
+			<Original>Skulls</Original>
+			<English>Skulls</English>
+			<German>Schädel</German>
+			<Russian>Черепа</Russian>
+		</Key>
+		<Key ID="str_f_actions_151">
+			<Original>Vinipuh</Original>
+			<English>Vinipuh</English>
+			<German>Vinipuh</German>
+			<Russian>Винни Пух</Russian>
+		</Key>
+		<Key ID="str_f_actions_152">
+			<Original>Sexy</Original>
+			<English>Sexy</English>
+			<German>Sexy</German>
+			<Russian>Секси</Russian>
+		</Key>
+		<Key ID="str_f_actions_153">
+			<Original>Cola</Original>
+			<English>Cola</English>
+			<German>Cola</German>
+			<Russian>Кола</Russian>
+		</Key>
+		<Key ID="str_f_actions_154">
+			<Original>Electro</Original>
+			<English>Electro</English>
+			<German>Elektro</German>
+			<Russian>Электро</Russian>
+		</Key>
+		<Key ID="str_f_actions_155">
+			<Original>Ice Cream</Original>
+			<English>Ice Cream</English>
+			<German>Eis</German>
+			<Russian>Мороженое</Russian>
+		</Key>
+		<Key ID="str_f_actions_156">
+			<Original>Beer</Original>
+			<English>Beer</English>
+			<German>Bier</German>
+			<Russian>Пиво</Russian>
+		</Key>
+		<Key ID="str_f_actions_157">
+			<Original>Repair</Original>
+			<English>Repair</English>
+			<German>Reparieren</German>
+			<Russian>Ремонт</Russian>
+		</Key>
+		<Key ID="str_f_actions_158">
+			<Original>Vodka</Original>
+			<English>Vodka</English>
+			<German>Vodka</German>
+			<Russian>Водка</Russian>
+		</Key>
+		<Key ID="str_f_actions_159">
+			<Original>Monsters</Original>
+			<English>Monsters</English>
+			<German>Monster</German>
+			<Russian>Монстры</Russian>
+		</Key>	
+		<Key ID="str_f_actions_160">
+			<Original>Kitty</Original>
+			<English>Kitty</English>
+			<German>Kitty</German>
+			<Russian>Котенок</Russian>
+		</Key>	
+		<Key ID="str_f_actions_161">
+			<Original>Rammstein</Original>
+			<English>Rammstein</English>
+			<German>Rammstein</German>
+			<Russian>Раммштайн</Russian>
+		</Key>		
+		<Key ID="str_f_actions_162">
+			<Original>Crab</Original>
+			<English>Crab</English>
+			<German>Krabbe</German>
+			<Russian>Краб</Russian>
+		</Key>		
+		<Key ID="str_f_actions_163">
+			<Original>Rammstein</Original>
+			<English>Rammstein</English>
+			<German>Rammstein</German>
+			<Russian>Раммштайн</Russian>
+		</Key>		
+		<Key ID="str_f_actions_164">
+			<Original>Satan</Original>
+			<English>Satan</English>
+			<German>Satan</German>
+			<Russian>Сатана</Russian>
+		</Key>
+		<Key ID="str_f_actions_165">
+			<Original>Zombie Hunters</Original>
+			<English>Zombie Hunters</English>
+			<German>Zombie Hunters</German>
+			<Russian>Охотники на зомби</Russian>
+		</Key>
+		<Key ID="str_f_actions_166">
+			<Original>Police</Original>
+			<English>Police</English>
+			<German>Polizei</German>
+			<Russian>Милиция</Russian>
+		</Key>
+		
+		<Key ID="str_you_need_1">
+			<Original>You need %1</Original>
+			<English>You need %1</English>
+			<German>Sie benötigen %1</German>
+			<Russian>Не хватает %1</Russian>
+		</Key>
+		<Key ID="str_action_studybody">
+			<Original>Study Body</Original>
+			<English>Study Body</English>
+			<German>Leiche untersuchen</German>
+			<Russian>Обследовать тело</Russian>
+		</Key>
+		<Key ID="str_actions_build12">
+			<Original>Build %1</Original>
+			<English>Build %1</English>
+			<German>%1 bauen</German>
+			<Russian>Установить %1</Russian>
+		</Key>
+		<Key ID="str_actions_delete">
+			<Original>Remove %1</Original>
+			<English>Remove %1</English>
+			<German>%1 entfernen</German>
+			<Russian>Разобрать %1</Russian>
+		</Key>
+		<Key ID="str_actions_destr">
+			<Original>Destroy %1</Original>
+			<English>Destroy %1</English>
+			<German>%1 zerstören</German>
+			<Russian>Разрушить %1</Russian>
+		</Key>
+		<Key ID="str_actions_save">
+			<Original>Save %1</Original>
+			<English>Save %1</English>
+			<German>%1 speichern</German>
+			<Russian>Сохранить %1</Russian>
+		</Key>
+		<Key ID="str_actions_self_unfliplight">
+			<Original>Turn Over %1</Original>
+			<English>Turn Over %1</English>
+			<German>%1 umdrehen</German>
+			<Russian>Turn Over %1</Russian>
+		</Key>
+		<Key ID="str_actions_self_unflipheavy">
+			<Original>Turn Over %1</Original>
+			<English>Turn Over %1</English>
+			<German>%1 umdrehen</German>
+			<Russian>Turn Over %1</Russian>
+		</Key>
+		<Key ID="STR_CHAR_2">
+			<Original>Bandit</Original>
+			<English>Bandit</English>
+			<German>Bandit</German>
+			<Russian>Бандит</Russian>
+		</Key>
+		<Key ID="str_actions_medical_18">
+			<Original>Drain fuel from %1</Original>
+			<English>Drain fuel from %1</English>
+			<German>Kraftstoff ablassen von %1</German>
+			<Russian>Слить топливо из %1</Russian>
+		</Key>
+		<Key ID="str_sub_actions_1">
+			<Original>Submerge</Original>
+			<English>Submerge</English>
+			<German>Tauchen</German>
+			<Russian>Погрузиться</Russian>
+		</Key>
+		<Key ID="str_sub_actions_2">
+			<Original>Emerge</Original>
+			<English>Emerge</English>
+			<German>Auftauchen</German>
+			<Russian>Всплыть</Russian>
+		</Key>
+		<Key ID="str_sub_actions_3">
+			<Original>Engine compartment</Original>
+			<English>Engine compartment</English>
+			<German>Motorraum</German>
+			<Russian>Моторный отсек</Russian>
+		</Key>
+		
+	</Package>
+	<Package name="Memory_h">
+	<Key ID="str_memory_a_0">
+	<Original>His name was %1. He couldn't survive this apocalypse.</Original>
+	<English>His name was %1. He couldn't survive this apocalypse.</English>
+	<German>Sein Name war %1. Er konnte die Apokalypse nicht länger ertragen.</German>
+	<Russian>His name was %1. He couldn't survive this apocalypse.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_1">
+	<Original>Rest in Peace %1.</Original>
+	<English>Rest in Peace %1.</English>
+	<German>Ruhe in Frieden %1.</German>
+	<Russian>Rest in Peace %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_2">
+	<Original>%1 ran out of bandages.</Original>
+	<English>%1 ran out of bandages.</English>
+	<German>%1 sind die Bandagen ausgegangen.</German>
+	<Russian>%1 ran out of bandages.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_3">
+	<Original>%1 had an unlucky day.</Original>
+	<English>%1 had an unlucky day.</English>
+	<German>%1 hatte einen schlechten Tag.</German>
+	<Russian>%1 had an unlucky day.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_4">
+	<Original>%1 died while trying to find a full bottle of whiskey.</Original>
+	<English>%1 died while trying to find a full bottle of whiskey.</English>
+	<German>%1 starb auf der Suche nach einer vollen Flasche Whiskey.</German>
+	<Russian>%1 died while trying to find a full bottle of whiskey.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_5">
+	<Original>His name appeared to be %1.</Original>
+	<English>His name appeared to be %1.</English>
+	<German>Sein Name scheint %1 gewesen zu sein.</German>
+	<Russian>His name appeared to be %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_6">
+	<Original>"Even god can't end this misery…it is time to reunite with my family…" %1.</Original>
+	<English>"Even god can't end this misery…it is time to reunite with my family…" %1.</English>
+	<German>"Nicht einmal Gott kann dieser Not ein Ende setzen... Es wird Zeit, meine Familie wiederzusehen…" %1.</German>
+	<Russian>"Even god can't end this misery…it is time to reunite with my family…" %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_7">
+	<Original>"Life is pleasant. Death is peaceful. It's the transition that's troublesome." %1.</Original>
+	<English>"Life is pleasant. Death is peaceful. It's the transition that's troublesome." %1</English>
+	<German>"Das Leben ist schön. Der Tod is friedlich. Der Übergang ist der mühsame Teil." %1</German>
+	<Russian>"Life is pleasant. Death is peaceful. It's the transition that's troublesome." %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_a_8">
+	<Original>%1 died due to an unknown reason.</Original>
+	<English>%1 died due to an unknown reason.</English>
+	<German>%1 starb durch eine unbekannte Ursache.</German>
+	<Russian>%1 died due to an unknown reason.</Russian>
+	</Key>
+	
+	
+	
+	<Key ID="str_memory_b_0">
+	<Original>His name was %1. %2 made him pay for his sins.</Original>
+	<English>His name was %1. %2 made him pay for his sins.</English>
+	<German>Sein Name war %1. %2 hat ihn für seine Sünden bezahlen lassen.</German>
+	<Russian>His name was %1. %2 made him pay for his sins.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_1">
+	<Original>%1 paid with his life for killing too many innocent people.</Original>
+	<English>%1 paid with his life for killing too many innocent people.</English>
+	<German>%1 bezahlte für das Töten von vielen unschuldigen Menschen mit seinem Leben.</German>
+	<Russian>%1 paid with his life for killing too many innocent people.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_2">
+	<Original>%1 failed his last ambush and was killed by %2.</Original>
+	<English>%1 failed his last ambush and was killed by %2.</English>
+	<German>%1 versagte bei seinem letzten hinterhalt und wurd von %2 getötet.</German>
+	<Russian>%1 failed his last ambush and was killed by %2.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_3">
+	<Original>%1 was killed by %2. </Original>
+	<English>%1 was killed by %2.</English>
+	<German>%1 wurde von %2 getötet.</German>
+	<Russian>%1 was killed by %2.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_4">
+	<Original>"I killed people like I used to kill rabbits. It is all about survival of the fittest…" %1.</Original>
+	<English>"I killed people like I used to kill rabbits. It is all about survival of the fittest…" %1.</English>
+	<German>"Ich habe Menschen wie Hasen getötet. Alles worum es geht ist das Überleben des Stärksten…" %1.</German>
+	<Russian>"I killed people like I used to kill rabbits. It is all about survival of the fittest…" %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_5">
+	<Original>It seems like his murderer scratched out the name on the cross.</Original>
+	<English>It seems like his murderer scratched out the name on the cross.</English>
+	<German>Es scheint als hätte der Mörder den Namen auf dem Kreuz zerkratzt.</German>
+	<Russian>It seems like his murderer scratched out the name on the cross.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_6">
+	<Original>"People are not worth more than zombies…" %1.</Original>
+	<English>"People are not worth more than zombies…" %1.</English>
+	<German>"Menschen sind auch nicht mehr wert als Zombies…" %1.</German>
+	<Russian>"People are not worth more than zombies…" %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_7">
+	<Original>"The death of one man is a tragedy. The death of millions is a statistic." %1.</Original>
+	<English>"The death of one man is a tragedy. The death of millions is a statistic." %1.</English>
+	<German>"Der Tod eines einzelnen Menschen ist ein Tragödie. Der Tod von einer Millionen Menschen ist eine Statistik." %1.</German>
+	<Russian>"The death of one man is a tragedy. The death of millions is a statistic." %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_8">
+	<Original>%1 was executed by %2.</Original>
+	<English>%1 was executed by %2.</English>
+	<German>%1 wurde von %2 hingerichtet.</German>
+	<Russian>%1 was executed by %2.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_9">
+	<Original>"This will be an easy kill they said. It will be just like taking a child's candy…" %1.</Original>
+	<English>"This will be an easy kill they said. It will be just like taking a child's candy…" %1.</English>
+	<German>"Es wird ein einfacher Mord werden haben Sie gesagt. Es wird genauso sein wie einem Kind die Süßigkeiten zu klauen…" %1.</German>
+	<Russian>"This will be an easy kill they said. It will be just like taking a child's candy…" %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_b_10">
+	<Original>Be careful! Even in Death %1 might try to trick you.</Original>
+	<English>Be careful! Even in Death %1 might try to trick you.</English>
+	<German>Sei vorsichtig! Obwohl %1 tot ist könnte er immernoch versuchen dich zu täuschen.</German>
+	<Russian>Be careful! Even in Death %1 might try to trick you.</Russian>
+	</Key>
+	
+	
+	
+	<Key ID="str_memory_c_0">
+	<Original>"I'm friendly… don't shoot" %1.</Original>
+	<English>"I'm friendly… don't shoot" %1.</English>
+	<German>"Ich bin freundlich… nicht schießen" %1.</German>
+	<Russian>"I'm friendly… don't shoot" %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_c_1">
+	<Original>%1 was killed by %2.</Original>
+	<English>%1 was killed by %2.</English>
+	<German>%1 wurde von %2 getötet.</German>
+	<Russian>%1 was killed by %2.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_c_2">
+	<Original>%1 was executed by %2.</Original>
+	<English>%1 was executed by %2.</English>
+	<German>%1 wurde von %2 getötet.</German>
+	<Russian>%1 was executed by %2.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_c_3">
+	<Original>It seems like his murderer scratched out the name on the cross.</Original>
+	<English>It seems like his murderer scratched out the name on the cross.</English>
+	<German>Es scheint als hätte der Mörder den Namen auf dem Kreuz zerkratzt.</German>
+	<Russian>It seems like his murderer scratched out the name on the cross.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_c_4">
+	<Original>%1 asked the wrong guy for a bloodtransfusion.</Original>
+	<English>%1 asked the wrong guy for a bloodtransfusion.</English>
+	<German>%1 hat die falsche Person um eine Bluttransfusion gebeten.</German>
+	<Russian>%1 asked the wrong guy for a bloodtransfusion.</Russian>
+	</Key>
+	
+	
+	
+	<Key ID="str_memory_d_0">
+	<Original>%1 gave his life for other survivors.</Original>
+	<English>%1 gave his life for other survivors.</English>
+	<German>%1 hat sein Leben für andere Überlebende gegeben.</German>
+	<Russian>%1 gave his life for other survivors.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_d_1">
+	<Original>"I'll bandage this guy in front of me, he needs help…" %1.</Original>
+	<English>"I'll bandage this guy in front of me, he needs help…" %1.</English>
+	<German>"Ich werde die Person vor mir bandagieren, sie benötigt hilfe…" %1.</German>
+	<Russian>"I'll bandage this guy in front of me, he needs help…" %1.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_d_2">
+	<Original>%1 was killed by %2.</Original>
+	<English>%1 was killed by %2.</English>
+	<German>%1 wurde von %2 getötet.</German>
+	<Russian>%1 was killed by %2.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_d_3">
+	<Original>%1's corpse tells you the story about when the good meets the evil.</Original>
+	<English>%1's corpse tells you the story about when the good meets the evil.</English>
+	<German>%1's Leiche erzahlt die Geschicht von dem was passiert, wenn das Gute und das Böse aufeinander treffen.</German>
+	<Russian>%1's corpse tells you the story about when the good meets the evil.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_d_4">
+	<Original>It seems like his murderer scratched out the name on the cross.</Original>
+	<English>It seems like his murderer scratched out the name on the cross.</English>
+	<German>Es scheint als hätte der Mörder den Namen auf dem Kreuz zerkratzt.</German>
+	<Russian>It seems like his murderer scratched out the name on the cross.</Russian>
+	</Key>
+	
+	<Key ID="str_memory_d_5">
+	<Original>"People looked up to you %1…now I know the feeling. Your life is over". %2.</Original>
+	<English>"People looked up to you %1…now I know the feeling. Your life is over". %2.</English>
+	<German>"Die Menschen haben zu dir aufgeschaut %1… jetzt kenne ich das Gefühl. Dein Leben ist vorbei". %2</German>
+	<Russian>"People looked up to you %1…now I know the feeling. Your life is over". %2.</Russian>
+	</Key> 
+</Package>
+	
+	
+</Project>
