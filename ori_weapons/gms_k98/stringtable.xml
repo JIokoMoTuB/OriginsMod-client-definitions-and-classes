@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma2 GMS_K98">
+  <Package name="GMS_K98">
+	<Key ID="STR_DN_K98">
+				<Original>Kar98k</Original>
+				<German>Kar98k</German>
+				<English>Kar98k</English>
+				<Italian>Kar98k</Italian>
+				<Spanish>Kar98k</Spanish>
+				<French>Kar98k</French>
+				<Czech>Kar98k</Czech>
+				<Russian>Кар98к</Russian>
+				<Polish>Kar98k</Polish>
+				<Hungarian>Kar98k</Hungarian>
+   </Key>
+   <Key ID="STR_DSS_K98">
+				<Original>Mauser K98k</Original>
+				<German>Karabiner98 Kurz</German>
+				<English>Mauser K98k</English>
+				<Italian>Mauser K98k</Italian>
+				<Spanish>Mauser K98k</Spanish>
+				<French>Mauser K98k</French>
+				<Czech>Mauser K98k</Czech>
+				<Russian>Карабин Маузера 98к</Russian>
+				<Polish>Mauser K98k</Polish>
+				<Hungarian>Mauser K98k</Hungarian>
+   </Key>
+   <Key ID="STR_MN_K98">
+				<Original>Kar98k Clip</Original>
+				<German>Kar98k Clip</German>
+				<English>Kar98k Clip</English>
+				<Italian>Kar98k Clip</Italian>
+				<Spanish>Kar98k Clip</Spanish>
+				<French>Kar98k Clip</French>
+				<Czech>Kar98k Clip</Czech>
+				<Russian>Обойма Кар98к</Russian>
+				<Polish>Kar98k Clip</Polish>
+				<Hungarian>Kar98k Clip</Hungarian>
+   </Key>
+   <Key ID="STR_DN_K98S">
+				<Original>Kar98k Sniper</Original>
+				<German>Kar98k Sniper</German>
+				<English>Kar98k Sniper</English>
+				<Italian>Kar98k Sniper</Italian>
+				<Spanish>Kar98k Sniper</Spanish>
+				<French>Kar98k Sniper</French>
+				<Czech>Kar98k Sniper</Czech>
+				<Russian>Кар98к Sniper</Russian>
+				<Polish>Kar98k Sniper</Polish>
+				<Hungarian>Kar98k Sniper</Hungarian>
+   </Key>
+   <Key ID="STR_DSS_5RND_K98">
+				<Original>5 Rounds clip of Kar98k</Original>
+				<German>5 Rounds clip of Kar98k</German>
+				<English>5 Rounds clip of Kar98k</English>
+				<Italian>5 Rounds clip of Kar98k</Italian>
+				<Spanish>5 Rounds clip of Kar98k</Spanish>
+				<French>5 Rounds clip of Kar98k</French>
+				<Czech>5 Rounds clip of Kar98k</Czech>
+				<Russian>Магазин на 5 патрона к Кар98к</Russian>
+				<Polish>5 Rounds clip of Kar98k</Polish>
+				<Hungarian>5 Rounds clip of Kar98k</Hungarian>
+   </Key>
+   <Key ID="STR_DSS_K98ZF39">
+				<Original>Kar98k with ZF39 sight</Original>
+				<German>Kar98k with ZF39 sight </German>
+				<English>Kar98k with ZF39 sight</English>
+				<Italian>Kar98k with ZF39 sight</Italian>
+				<Spanish>Kar98k with ZF39 sight</Spanish>
+				<French>Kar98k with ZF39 sight</French>
+				<Czech>Kar98k with ZF39 sight</Czech>
+				<Russian>Кар98к с оптическим прицелом ZF39</Russian>
+				<Polish>Kar98k with ZF39 sight</Polish>
+				<Hungarian>Kar98k with ZF39 sight</Hungarian>
+   </Key>
+   
+   <Key ID="STR_MN_PNZRGRND30">
+				<German>Panzergrenade 30</German>
+				<English>Panzergrenade 30</English>
+				<Italian>Panzergrenade 30</Italian>
+				<Spanish>Panzergrenade 30</Spanish>
+				<French>Panzergrenade 30</French>
+				<Czech>Panzergrenade 30</Czech>
+				<Russian>ПТ граната</Russian>
+				<Polish>Panzergrenade 30</Polish>
+				<Hungarian>Panzergrenade 30</Hungarian>
+   </Key>
+   <Key ID="STR_DSS_PNZRGRND30">
+				<German>AT Rifle grenade of Kar98k</German>
+				<English>AT Rifle grenade of Kar98k</English>
+				<Italian>AT Rifle grenade of Kar98k</Italian>
+				<Spanish>AT Rifle grenade of Kar98k</Spanish>
+				<French>AT Rifle grenade of Kar98k</French>
+				<Czech>AT Rifle grenade of Kar98k</Czech>
+				<Russian>Ружейная ПТ граната к Кар98к</Russian>
+				<Polish>AT Rifle grenade of Kar98k</Polish>
+				<Hungarian>AT Rifle grenade of Kar98k</Hungarian>
+   </Key>
+   
+   <Key ID="STR_DN_K98RG">
+				<German>Rifle Grenade Launcher</German>
+				<English>Rifle Grenade Launcher</English>
+				<Italian>Rifle Grenade Launcher</Italian>
+				<Spanish>Rifle Grenade Launcher</Spanish>
+				<French>Rifle Grenade Launcher</French>
+				<Czech>Rifle Grenade Launcher</Czech>
+				<Russian>Ружейный Гранатомет</Russian>
+				<Polish>Rifle Grenade Launcher</Polish>
+				<Hungarian>Rifle Grenade Launcher</Hungarian>
+   </Key>
+   
+   <Key ID="STR_LIB_K98">
+				<German>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</German>
+				<English>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</English>
+				<Italian>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</Italian>
+				<Spanish>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</Spanish>
+				<French>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</French>
+				<Czech>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</Czech>
+				<Russian>Карабин Маузера 98к, сделанный на базе винтовки GEW.98 состоял на вооружении Германии с 1935 и до конца Второй Мировой войны, последний образец в линейке военных винтовок этой фирмы </Russian>
+				<Polish>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</Polish>
+				<Hungarian>The Kar98k was a bolt-action rifle adopted as the standart infantry rifle in 1935 by the German Wehrmacht, and was one of the final developments in the long line of Mauser military rifles.</Hungarian>
+   </Key>
+  </Package>
+</Project>

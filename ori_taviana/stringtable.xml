@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="taviana">
+<Package name="taviana">
+
+<Key ID="str_tavi">
+	<English>Taviana (Origins Mod)</English>
+	<Czech>Taviana (Origins Mod)</Czech>
+	<Russian>Тавиана (Origins Mod)</Russian>
+	<Polish>Taviana (Origins Mod)</Polish>
+</Key>
+
+<Key ID="str_zatok">
+	<English>Zatok</English>
+	<Czech>Zátok</Czech>
+	<Russian>Заток</Russian>
+	<Polish>Zatok</Polish>
+</Key>
+
+<Key ID="str_bjelagora">
+	<English>Byela Gora</English>
+	<Czech>Bílá Hora</Czech>
+	<Russian>Белая гора</Russian>
+	<Polish>Biała Góra</Polish>
+</Key>
+
+<Key ID="str_podgorica">
+	<English>Podgorica</English>
+	<Czech>Podgorica</Czech>
+	<Russian>Подгорица</Russian>
+	<Polish>Podgorica</Polish>
+</Key>
+
+<Key ID="str_lespodgoricak">
+	<English>Forest Podgorichak</English>
+	<Czech>Les Podgoričak</Czech>
+	<Russian>Лес Подгоричак</Russian>
+	<Polish>Las Podgoriczak</Polish>
+</Key>
+
+<Key ID="str_ujezd">
+	<English>Uyezd</English>
+	<Czech>Újezd</Czech>
+	<Russian>Уезд</Russian>
+	<Polish>Ujezd</Polish>
+</Key>
+
+<Key ID="str_kopec">
+	<English>Kopech</English>
+	<Czech>Kopeč</Czech>
+	<Russian>Копеч</Russian>
+	<Polish>Kopecz</Polish>
+</Key>
+
+<Key ID="str_krushevic">
+	<English>Krushevich</English>
+	<Czech>Kruševič</Czech>
+	<Russian>Крушевич</Russian>
+	<Polish>Kruszewicz</Polish>
+</Key>
+
+<Key ID="str_postojna">
+	<English>Postoyna</English>
+	<Czech>Postojna</Czech>
+	<Russian>Постойна</Russian>
+	<Polish>Postojna</Polish>
+</Key>
+
+<Key ID="str_noviboc">
+	<English>Novi Boch</English>
+	<Czech>Nový Boč</Czech>
+	<Russian>Нови Боч</Russian>
+	<Polish>Nowy Bocz</Polish>
+</Key>
+
+<Key ID="str_karelskikanal">
+	<English>Karelski Channel</English>
+	<Czech>Karelský Průplav</Czech>
+	<Russian>Карелски Канал</Russian>
+	<Polish>Karelski Кanał</Polish>
+</Key>
+
+<Key ID="str_boje">
+	<English>Boye</English>
+	<Czech>Boje</Czech>
+	<Russian>Бое</Russian>
+	<Polish>Boje</Polish>
+</Key>
+
+<Key ID="str_balticnomore">
+	<English>Baltic Sea</English>
+	<Czech>Baltské moře</Czech>
+	<Russian>Балтийское море</Russian>
+	<Polish>Morze Bałtyckie</Polish>
+</Key>
+
+<Key ID="str_lespodgradcak">
+	<English>Forest Podgradchak</English>
+	<Czech>Les Podgradčak</Czech>
+	<Russian>Лес Подградчак</Russian>
+	<Polish>Las Podgradczak</Polish>
+</Key>
+
+<Key ID="str_zutagora">
+	<English>Zhuta Gora</English>
+	<Czech>Žlutá Hora</Czech>
+	<Russian>Желтая Гора</Russian>
+	<Polish>Żółta Góra</Polish>
+</Key>
+
+
+<Key ID="str_starisad">
+	<English>Stari Sad</English>
+	<Czech>Starý Sad</Czech>
+	<Russian>Старый Сад</Russian>
+	<Polish>Stary Sad</Polish>
+</Key>
+
+<Key ID="str_ljubolskijzaliv">
+	<English>Lyubolsky Zaliv</English>
+	<Czech>Ljubolský Záliv</Czech>
+	<Russian>Люболский Залив</Russian>
+	<Polish>Ljubolskij Zaliv</Polish>
+</Key>
+
+<Key ID="str_certovooko">
+	<English>Chertovo Oko</English>
+	<Czech>Čertovo Oko</Czech>
+	<Russian>Дьявола Глаз</Russian>
+	<Polish>Oko Diabła</Polish>
+</Key>
+
+<Key ID="str_leskrusevak">
+	<English>Forest Krushevak</English>
+	<Czech>Les Kruševak</Czech>
+	<Russian>Лес Крушевак</Russian>
+	<Polish>Las Kruszewak</Polish>
+</Key>
+
+<Key ID="str_nizina">
+	<English>Nizhina</English>
+	<Czech>Nížina</Czech>
+	<Russian>Нижина</Russian>
+	<Polish>Niżyna</Polish>
+</Key>
+
+<Key ID="str_bielov">
+	<English>Bielov</English>
+	<Czech>Bělov</Czech>
+	<Russian>Белов</Russian>
+	<Polish>Bielow</Polish>
+</Key>
+
+<Key ID="str_lesvrse">
+	<English>Forest Vrshe</English>
+	<Czech>Les Vrše</Czech>
+	<Russian>Лес Врше</Russian>
+	<Polish>Las Wrsze</Polish>
+</Key>
+
+<Key ID="str_cement1">
+	<English>Cement</English>
+	<Czech>Cementárna</Czech>
+	<Russian>Цементный</Russian>
+	<Polish>Cementownia</Polish>
+</Key>
+
+<Key ID="str_Cement2">
+	<English>Works</English>
+	<Czech> </Czech>
+	<Russian>Завод</Russian>
+	<Polish> </Polish>
+</Key>
+
+<Key ID="str_spicak">
+	<English>Shpichak</English>
+	<Czech>Špičák</Czech>
+	<Russian>Шпичак</Russian>
+	<Polish>Szpiczak</Polish>
+</Key>
+
+<Key ID="str_balticnomore2">
+	<English>Baltic Sea</English>
+	<Czech>Baltské moře</Czech>
+	<Russian>Балтийское море</Russian>
+	<Polish>Morze Bałtyckie</Polish>
+</Key>
+
+<Key ID="str_slovane">
+	<English>Slovany</English>
+	<Czech>Slovany</Czech>
+	<Russian>Славяны</Russian>
+	<Polish>Słowany</Polish>
+</Key>
+
+<Key ID="str_sabina">
+	<English>Sabina</English>
+	<Czech>Sabina</Czech>
+	<Russian>Сабина</Russian>
+	<Polish>Sabina</Polish>
+</Key>
+
+<Key ID="str_starepole">
+	<English>Stare Pole</English>
+	<Czech>Staré Pole</Czech>
+	<Russian>Старое Поле</Russian>
+	<Polish>Stare Pole</Polish>
+</Key>
+
+<Key ID="str_lessumav">
+	<English>Forest Shumav</English>
+	<Czech>Les Šumav</Czech>
+	<Russian>Лес Шумав</Russian>
+	<Polish>Las Szumaw</Polish>
+</Key>
+
+<Key ID="str_skalka">
+	<English>Skalka</English>
+	<Czech>Les Šumav</Czech>
+	<Russian>Скалка</Russian>
+	<Polish>Skalka</Polish>
+</Key>
+
+<Key ID="str_bolota">
+	<English>Swamp</English>
+	<Czech>Močál</Czech>
+	<Russian>Болота</Russian>
+	<Polish>Moczary</Polish>
+</Key>
+
+<Key ID="str_chlumek">
+	<English>Khlumek</English>
+	<Czech>Chlumek</Czech>
+	<Russian>Хлумек</Russian>
+	<Polish>Chlumek</Polish>
+</Key>
+
+<Key ID="str_chlumec">
+	<English>Khlumec</English>
+	<Czech>Chlumec</Czech>
+	<Russian>Хлумец</Russian>
+	<Polish>Chlumec</Polish>
+</Key>
+
+<Key ID="str_certovastjena">
+	<English>Chertova Styena</English>
+	<Czech>Čertova Stěna</Czech>
+	<Russian>Дьявола стена</Russian>
+	<Polish>Diabła Sciana</Polish>
+</Key>
+
+<Key ID="str_novibor">
+	<English>Novy Bor</English>
+	<Czech>Nový Bor</Czech>
+	<Russian>Новый Бор</Russian>
+	<Polish>Nowy Bor</Polish>
+</Key>
+
+<Key ID="str_vrsina">
+	<English>Vrshyna</English>
+	<Czech>Vršina</Czech>
+	<Russian>Вршина</Russian>
+	<Polish>Vrszyna</Polish>
+</Key>
+
+<Key ID="str_klet">
+	<English>Klet</English>
+	<Czech>Kleť</Czech>
+	<Russian>Клеть</Russian>
+	<Polish>Klet</Polish>
+</Key>
+
+<Key ID="str_djelnica">
+	<English>Dyelnica</English>
+	<Czech>Dělnica</Czech>
+	<Russian>Делница</Russian>
+	<Polish>Dielnica</Polish>
+</Key>
+
+<Key ID="str_centr">
+	<English>Center</English>
+	<Czech>Centrum</Czech>
+	<Russian>Центр</Russian>
+	<Polish>Centrum</Polish>
+</Key>
+
+<Key ID="str_petrovice">
+	<English>Center</English>
+	<Czech>Petrovice</Czech>
+	<Russian>Петровице</Russian>
+	<Polish>Petrowyce</Polish>
+</Key>
+
+<Key ID="str_jezeroumag">
+	<English>Lake Umag</English>
+	<Czech>Jezero Umag</Czech>
+	<Russian>Озеро Умаг</Russian>
+	<Polish>Jezioro Umag</Polish>
+</Key>
+
+<Key ID="str_aero1">
+	<English>Airport Dubovo</English>
+	<Czech>Letiště Dubovo</Czech>
+	<Russian>Аэропорт Дубово</Russian>
+	<Polish>Lotnisko Dubowo</Polish>
+</Key>
+
+<Key ID="str_aero2">
+	<English>Jaroslavski Airport</English>
+	<Czech>Letiště Jaroslav</Czech>
+	<Russian>Аэропорт Ярослав</Russian>
+	<Polish>Lotnisko Jarosław</Polish>
+</Key>
+
+<Key ID="str_balticnomore3">
+	<English>Baltic Sea</English>
+	<Czech>Baltské moře</Czech>
+	<Russian>Балтийское море</Russian>
+	<Polish>Morze Bałtyckie</Polish>
+</Key>
+
+<Key ID="str_otok">
+	<English>Otok</English>
+	<Czech>Otok</Czech>
+	<Russian>Оток</Russian>
+	<Polish>Otok</Polish>
+</Key>
+
+
+<Key ID="str_prilep">
+	<English>Prilep</English>
+	<Czech>Prilep</Czech>
+	<Russian>Прилеп</Russian>
+	<Polish>Prilep</Polish>
+</Key>
+
+<Key ID="str_solibor">
+	<English>Solibor</English>
+	<Czech>Solibor</Czech>
+	<Russian>Солибор</Russian>
+	<Polish>Solibor</Polish>
+</Key>
+
+<Key ID="str_cgradok">
+	<English>Chrveni Gradok</English>
+	<Czech>Červený Gradok</Czech>
+	<Russian>Чрвени Градок</Russian>
+	<Polish>Czerwony Gradok</Polish>
+</Key>
+
+<Key ID="str_sokol">
+	<English>Sokoli Gnyazdo</English>
+	<Czech>Sokolí Hnízdo</Czech>
+	<Russian>Соколске гнездо</Russian>
+	<Polish>Gniazdo Sokółа</Polish>
+</Key>
+
+<Key ID="str_vinograd">
+	<English>Vinograd</English>
+	<Czech>Vinograd</Czech>
+	<Russian>Виноград</Russian>
+	<Polish>Winograd</Polish>
+</Key>
+
+<Key ID="str_dorijanov">
+	<English>Doriyanov</English>
+	<Czech>Dorijanov</Czech>
+	<Russian>Дориянов</Russian>
+	<Polish>Dorianow</Polish>
+</Key>
+
+<Key ID="str_bolota2">
+	<English>Swamp</English>
+	<Czech>Močál</Czech>
+	<Russian>Болота</Russian>
+	<Polish>Moczary</Polish>
+</Key>
+
+<Key ID="str_triglav">
+	<English>Gora Triglav</English>
+	<Czech>Hora Triglav</Czech>
+	<Russian>Гора Триглав</Russian>
+	<Polish>Góra Triglaw</Polish>
+</Key>
+
+<Key ID="str_veles">
+	<English>Gora Veles</English>
+	<Czech>Hora Veles</Czech>
+	<Russian>Гора Велес</Russian>
+	<Polish>Góra Weles</Polish>
+</Key>
+
+<Key ID="str_marovit">
+	<English>Gora Marovit</English>
+	<Czech>Hora Marovit</Czech>
+	<Russian>Гора Маровит</Russian>
+	<Polish>Góra Marowit</Polish>
+</Key>
+
+<Key ID="str_perun">
+	<English>Vulcano Perun</English>
+	<Czech>Sopka Perun</Czech>
+	<Russian>Вулкан Перун</Russian>
+	<Polish>Wulkan Perun</Polish>
+</Key>
+
+<Key ID="str_molotovsk">
+	<English>Molotovsk</English>
+	<Czech>Molotovsk</Czech>
+	<Russian>Молотовск</Russian>
+	<Polish>Molotowsk</Polish>
+</Key>
+
+<Key ID="str_mzaliv">
+	<English>Molotovski Zlaiv</English>
+	<Czech>Molotovský Záliv</Czech>
+	<Russian>Молотовски Залив</Russian>
+	<Polish>Molotowski Zaliw</Polish>
+</Key>
+
+<Key ID="str_dubovo">
+	<English>Dubovo</English>
+	<Czech>Dubovo</Czech>
+	<Russian>Дубово</Russian>
+	<Polish>Dubowo</Polish>
+</Key>
+
+<Key ID="str_martin">
+	<English>Martin</English>
+	<Czech>Martin</Czech>
+	<Russian>Мартин</Russian>
+	<Polish>Martin</Polish>
+</Key>
+
+<Key ID="str_vokzal1">
+	<English>Train depot</English>
+	<Czech>Nádraží</Czech>
+	<Russian>Вокзал</Russian>
+	<Polish>Stacja kolejowa</Polish>
+</Key>
+
+<Key ID="str_gorka">
+	<English>Gorka</English>
+	<Czech>Gorka</Czech>
+	<Russian>Горка</Russian>
+	<Polish>Gorka</Polish>
+</Key>
+
+<Key ID="str_mjelkij">
+	<English>Myelkij</English>
+	<Czech>Mjelkij</Czech>
+	<Russian>Мелкий</Russian>
+	<Polish>Mielkij</Polish>
+</Key>
+
+<Key ID="str_brdo">
+	<English>Brdo</English>
+	<Czech>Brdo</Czech>
+	<Russian>Брдо</Russian>
+	<Polish>Brdo</Polish>
+</Key>
+
+<Key ID="str_ivan">
+	<English>Church of St Ivan</English>
+	<Czech>Chrám Sv Ivana</Czech>
+	<Russian>Храм Св Ивана</Russian>
+	<Polish>Kościół św Iwana</Polish>
+</Key>
+
+<Key ID="str_radyne">
+	<English>Radynya</English>
+	<Czech>Radynja</Czech>
+	<Russian>Радыня</Russian>
+	<Polish>Radynja</Polish>
+</Key>
+
+<Key ID="str_fab1">
+	<English>Mill</English>
+	<Czech>Mlýn</Czech>
+	<Russian>Мельниця</Russian>
+	<Polish>Młyn</Polish>
+</Key>
+
+<Key ID="str_dolina">
+	<English>Dolina</English>
+	<Czech>Dolina</Czech>
+	<Russian>Долина</Russian>
+	<Polish>Dolina</Polish>
+</Key>
+
+<Key ID="str_birjeza">
+	<English>Biryeza</English>
+	<Czech>Birjeza</Czech>
+	<Russian>Берёза</Russian>
+	<Polish>Birjeza</Polish>
+</Key>
+
+<Key ID="str_lepestok">
+	<English>Lyepestok</English>
+	<Czech>Lěpestok</Czech>
+	<Russian>Лепесток</Russian>
+	<Polish>Liepestok</Polish>
+</Key>
+
+<Key ID="str_ljubol">
+	<English>Lyubol'</English>
+	<Czech>Ljubol'</Czech>
+	<Russian>Люболь</Russian>
+	<Polish>Ljubol'</Polish>
+</Key>
+
+<Key ID="str_seva">
+	<English>Sevastopol'</English>
+	<Czech>Sevastopol'</Czech>
+	<Russian>Севастополь</Russian>
+	<Polish>Sewastopol'</Polish>
+</Key>
+
+<Key ID="str_dalno">
+	<English>Dalnogorsk</English>
+	<Czech>Dalnogorsk</Czech>
+	<Russian>Далногорск</Russian>
+	<Polish>Dalnogorsk</Polish>
+</Key>
+
+<Key ID="str_chot">
+	<English>Khotanovsk</English>
+	<Czech>Chotanovsk</Czech>
+	<Russian>Хотановск</Russian>
+	<Polish>Chotanowsk</Polish>
+</Key>
+
+<Key ID="str_zabjela">
+	<English>Zabyela</English>
+	<Czech>Zabjela</Czech>
+	<Russian>Забела</Russian>
+	<Polish>Zabiela</Polish>
+</Key>
+
+<Key ID="str_biel">
+	<English>Byelov</English>
+	<Czech>Bělov</Czech>
+	<Russian>Белов</Russian>
+	<Polish>Bielow</Polish>
+</Key>
+
+
+<Key ID="str_kustik">
+	<English>Kustik</English>
+	<Czech>Kustik</Czech>
+	<Russian>Кустик</Russian>
+	<Polish>Kustik</Polish>
+</Key>
+
+<Key ID="str_nina">
+	<English>Nina</English>
+	<Czech>Nina</Czech>
+	<Russian>Нина</Russian>
+	<Polish>Nina</Polish>
+</Key>
+
+<Key ID="str_stad">
+	<English>Stadium</English>
+	<Czech>Stadión</Czech>
+	<Russian>Стадион</Russian>
+	<Polish>Stadion</Polish>
+</Key>
+
+<Key ID="str_zeleno">
+	<English>Zelenogorod</English>
+	<Czech>Zelenogorod</Czech>
+	<Russian>Зеленогород</Russian>
+	<Polish>Zelenogorod</Polish>
+</Key>
+
+<Key ID="str_dubravka">
+	<English>Dubravka</English>
+	<Czech>Dubravka</Czech>
+	<Russian>Дубравка</Russian>
+	<Polish>Dubravka</Polish>
+</Key>
+
+<Key ID="str_star">
+	<English>Stari Grad</English>
+	<Czech>Stari Grad</Czech>
+	<Russian>Стари Град</Russian>
+	<Polish>Stari Grad</Polish>
+</Key>
+
+<Key ID="str_viskov">
+	<English>Vishkov</English>
+	<Czech>Vyškov</Czech>
+	<Russian>Вишков</Russian>
+	<Polish>Wyszkow</Polish>
+</Key>
+
+<Key ID="str_bori">
+	<English>Bori</English>
+	<Czech>Bori</Czech>
+	<Russian>Бори</Russian>
+	<Polish>Bori</Polish>
+</Key>
+
+<Key ID="str_lazar">
+	<English>Lazar</English>
+	<Czech>Lazar</Czech>
+	<Russian>Лазар</Russian>
+	<Polish>Lazar</Polish>
+</Key>
+
+<Key ID="str_kozak">
+	<English>Kozak</English>
+	<Czech>Kozak</Czech>
+	<Russian>Козак</Russian>
+	<Polish>Kozak</Polish>
+</Key>
+
+<Key ID="str_zvrh">
+	<English>Zeleny Vrh</English>
+	<Czech>Zelený Vrh</Czech>
+	<Russian>Зелени Врх</Russian>
+	<Polish>Zeleni Vrch</Polish>
+</Key>
+
+<Key ID="str_normansk">
+	<English>Gora Normansk</English>
+	<Czech>Hora Normansk</Czech>
+	<Russian>Гора Норманск</Russian>
+	<Polish>Góra Normansk</Polish>
+</Key>
+
+<Key ID="str_krakov">
+	<English>Krakov</English>
+	<Czech>Krakov</Czech>
+	<Russian>Краков</Russian>
+	<Polish>Krakow</Polish>
+</Key>
+
+<Key ID="str_zrog">
+	<English>Zeleny Rog</English>
+	<Czech>Zeleni Rog</Czech>
+	<Russian>Зелени Рог</Russian>
+	<Polish>Zeleni Rog</Polish>
+</Key>
+
+<Key ID="str_cles">
+	<English>Cherveny Les</English>
+	<Czech>Červený Les</Czech>
+	<Russian>Рыжий Лес</Russian>
+	<Polish>Czerwony Las</Polish>
+</Key>
+
+<Key ID="str_jaro">
+	<English>Yaroslav</English>
+	<Czech>Jaroslav</Czech>
+	<Russian>Ярослав</Russian>
+	<Polish>Jarosław</Polish>
+</Key>
+
+<Key ID="str_kameni">
+	<English>Kameni</English>
+	<Czech>Kameni</Czech>
+	<Russian>Камени</Russian>
+	<Polish>Kameni</Polish>
+</Key>
+
+<Key ID="str_duge">
+	<English>Duge Selo</English>
+	<Czech>Duge Selo</Czech>
+	<Russian>Дуге Село</Russian>
+	<Polish>Duge Selo</Polish>
+</Key>
+
+<Key ID="str_ekat">
+	<English>Ekaterinburg</English>
+	<Czech>Ekaterinburg</Czech>
+	<Russian>Екатеринбург</Russian>
+	<Polish>Ekaterinburg</Polish>
+</Key>
+
+<Key ID="str_etan">
+	<English>Etanovsk</English>
+	<Czech>Etanovsk</Czech>
+	<Russian>Етановск</Russian>
+	<Polish>Etanovsk</Polish>
+</Key>
+
+<Key ID="str_niva">
+	<English>Niva Bay</English>
+	<Czech>Záliv Niva</Czech>
+	<Russian>Залив Нива</Russian>
+	<Polish>Zatok Niwa</Polish>
+</Key>
+
+<Key ID="str_helf">
+	<English>Helfenburg</English>
+	<Czech>Helfenburg</Czech>
+	<Russian>Хелфенбург</Russian>
+	<Polish>Helfenburg</Polish>
+</Key>
+
+<Key ID="str_loket">
+	<English>Channel Loket</English>
+	<Czech>Průplav Loket</Czech>
+	<Russian>Канал Локет</Russian>
+	<Polish>Кanał Loket</Polish>
+</Key>
+
+<Key ID="str_sibenik">
+	<English>Isle Shibenik</English>
+	<Czech>Ostrov Šibeník</Czech>
+	<Russian>Остров Шибеник</Russian>
+	<Polish>Wyspa Szybenik</Polish>
+</Key>
+
+<Key ID="str_kres">
+	<English>Kres</English>
+	<Czech>Kres</Czech>
+	<Russian>Крес</Russian>
+	<Polish>Kres</Polish>
+</Key>
+
+<Key ID="str_ryzas">
+	<English>Ginger Forest</English>
+	<Czech>Zrzavý Les</Czech>
+	<Russian>Рыжий Лес</Russian>
+	<Polish>Rudy Les</Polish>
+</Key>
+
+<Key ID="str_rigs">
+	<English>Drilling platforms</English>
+	<Czech>Vrtné plošiny</Czech>
+	<Russian>Буровые платформы</Russian>
+	<Polish>Platformy wiertnicze</Polish>
+</Key>
+
+<Key ID="str_jelen">
+	<English>Yeleni Gora</English>
+	<Czech>Jelení Hora</Czech>
+	<Russian>Олени горa</Russian>
+	<Polish>Jeleni góra</Polish>
+</Key>
+
+<Key ID="str_sljepac">
+	<English>Lake Slyepac</English>
+	<Czech>Jezero Slepac</Czech>
+	<Russian>Озеро Слепац</Russian>
+	<Polish>Jezioro Slepac</Polish>
+</Key>
+
+<Key ID="str_bled">
+	<English>Lake Bled</English>
+	<Czech>Jezero Bled</Czech>
+	<Russian>Озеро Блэд</Russian>
+	<Polish>Jezioro Bled</Polish>
+</Key>
+
+<Key ID="str_as">
+	<English>Ash</English>
+	<Czech>Aš</Czech>
+	<Russian>Аш</Russian>
+	<Polish>Asz</Polish>
+</Key>
+
+<Key ID="str_knin">
+	<English>Knin</English>
+	<Czech>Knín</Czech>
+	<Russian>Книн</Russian>
+	<Polish>Knin</Polish>
+</Key>
+
+<Key ID="str_klis">
+	<English>Klish</English>
+	<Czech>Kliš</Czech>
+	<Russian>Клиш</Russian>
+	<Polish>Klisz</Polish>
+</Key>
+
+<Key ID="str_bledg">
+	<English>Bled</English>
+	<Czech>Bled</Czech>
+	<Russian>Блэд</Russian>
+	<Polish>Bled</Polish>
+</Key>
+
+<Key ID="str_Tresnjevo">
+	<English>Treshnyоvo</English>
+	<Czech>Trešňovo</Czech>
+	<Russian>Трешнёво</Russian>
+	<Polish>Treszniowo</Polish>
+</Key>
+
+<Key ID="str_repkov">
+	<English>Repkov</English>
+	<Czech>Repkov</Czech>
+	<Russian>Репков</Russian>
+	<Polish>Repkow</Polish>
+</Key>
+
+<Key ID="str_Poljanka">
+	<English>Polyanka</English>
+	<Czech>Poljanka</Czech>
+	<Russian>Полянка</Russian>
+	<Polish>Poljanka</Polish>
+</Key>
+
+<Key ID="str_Kryvoe">
+	<English>Kryvoe</English>
+	<Czech>Kryvoe</Czech>
+	<Russian>Крывое</Russian>
+	<Polish>Krywoe</Polish>
+</Key>
+
+<Key ID="str_Komarovo">
+	<English>Komarovo</English>
+	<Czech>Komarovo</Czech>
+	<Russian>Комарово</Russian>
+	<Polish>Komarowo</Polish>
+</Key>
+
+<Key ID="str_Krasnoznamensk">
+	<English>Krasnoznamen'sk</English>
+	<Czech>Krasnoznameňsk</Czech>
+	<Russian>Краснознаменьск</Russian>
+	<Polish>Krasnoznameńsk</Polish>
+</Key>
+
+<Key ID="str_Novi_dvor">
+	<English>Novi Dvor</English>
+	<Czech>Nový Dvor</Czech>
+	<Russian>Новы Двор</Russian>
+	<Polish>Nowy Dwor</Polish>
+</Key>
+
+<Key ID="str_Vedic">
+	<English>Vedich</English>
+	<Czech>Vedič</Czech>
+	<Russian>Ведич</Russian>
+	<Polish>Wedić</Polish>
+</Key>
+
+<Key ID="str_Cernovar">
+	<English>Chernovar</English>
+	<Czech>Černovar</Czech>
+	<Russian>Черновар</Russian>
+	<Polish>Czernowar</Polish>
+</Key>
+
+<Key ID="str_bilgrad">
+	<English>Bilgrad Na Moru</English>
+	<Czech>Bilgrad Na Moru</Czech>
+	<Russian>Билград На Мору</Russian>
+	<Polish>Bilgrad Na Moru</Polish>
+</Key>
+
+<Key ID="str_Stangrad">
+	<English>Shtangrad</English>
+	<Czech>Štangrad</Czech>
+	<Russian>Штанград</Russian>
+	<Polish>Sztangrad</Polish>
+</Key>
+
+<Key ID="str_Mitrovice">
+	<English>Mitrovice</English>
+	<Czech>Mitrovice</Czech>
+	<Russian>Митровице</Russian>
+	<Polish>Mitrovice</Polish>
+</Key>
+
+<Key ID="str_stari_dvor">
+	<English>Stari Dvor</English>
+	<Czech>Starý Dvor</Czech>
+	<Russian>Стары Двор</Russian>
+	<Polish>Stary Dwor</Polish>
+</Key>
+
+<Key ID="str_vilas">
+	<English>Volcano Vilas</English>
+	<Czech>Sopka Vilas</Czech>
+	<Russian>Вулкан Вилас</Russian>
+	<Polish>Wulkan Wilas</Polish>
+</Key>
+
+<Key ID="str_Roztoc">
+	<English>Roztoch</English>
+	<Czech>Roztoč</Czech>
+	<Russian>Розточ</Russian>
+	<Polish>Roztocz</Polish>
+</Key>
+
+<Key ID="str_Morana">
+	<English>Morana</English>
+	<Czech>Morana</Czech>
+	<Russian>Морана</Russian>
+	<Polish>Morana</Polish>
+</Key>
+
+<Key ID="str_Visocina">
+	<English>Visochina</English>
+	<Czech>Vysočina</Czech>
+	<Russian>Высочина</Russian>
+	<Polish>Wysoczyna</Polish>
+</Key>
+
+<Key ID="str_radegast">
+	<English>Radegast</English>
+	<Czech>Radegast</Czech>
+	<Russian>Радегаст</Russian>
+	<Polish>Radegast</Polish>
+</Key>
+
+<Key ID="str_Berstuk">
+	<English>Berstuk</English>
+	<Czech>Berstuk</Czech>
+	<Russian>Бэрстук</Russian>
+	<Polish>Berstuk</Polish>
+</Key>
+
+<Key ID="str_Zmey">
+	<English>Zmey</English>
+	<Czech>Zmej</Czech>
+	<Russian>Змей</Russian>
+	<Polish>Zmej</Polish>
+</Key>
+
+<Key ID="str_vucar">
+	<English>Vucar</English>
+	<Czech>Vucar</Czech>
+	<Russian>Вуцар</Russian>
+	<Polish>Wucar</Polish>
+</Key>
+
+<Key ID="str_Borovka">
+	<English>Borovka</English>
+	<Czech>Borovka</Czech>
+	<Russian>Боровка</Russian>
+	<Polish>Borovka</Polish>
+</Key>
+
+<Key ID="str_airport_krasno">
+	<English>Krasnoznamen'sk Airport</English>
+	<Czech>Letiště Krasnoznameňsk</Czech>
+	<Russian>Аэродром Краснознаменьск</Russian>
+	<Polish>Lotnisko Krasnoznameńsk</Polish>
+</Key>
+
+<Key ID="str_borska_polje2">
+	<English>Borska Pole</English>
+	<Czech>Borské Pole</Czech>
+	<Russian>Борске Поле</Russian>
+	<Polish>Borskie Pole</Polish>
+</Key>
+
+<Key ID="str_primorsk">
+	<English>Primorsk</English>
+	<Czech>Primorsk</Czech>
+	<Russian>Приморск</Russian>
+	<Polish>Primorsk</Polish>
+</Key>
+
+<Key ID="str_Racetrack">
+	<English>Racetrack</English>
+	<Czech>Závodní dráha</Czech>
+	<Russian>Гоночная дорога</Russian>
+	<Polish>Tor wyścigowy</Polish>
+</Key>
+
+<Key ID="str_sobor1">
+	<English>Sobor Khrista Spasitelya</English>
+	<Czech>Katedrála Krista Spasitele</Czech>
+	<Russian>Собор Христа  Спасителя</Russian>
+	<Polish>Katedra Chrystusa Zbawiciela</Polish>
+</Key>
+
+<Key ID="str_pole2">
+	<English>Bashka Luka</English>
+	<Czech>Baška Luka</Czech>
+	<Russian>Башка Лука</Russian>
+	<Polish>Baszka Luka</Polish>
+</Key>
+
+<Key ID="str_pole3">
+	<English>Stara Luka</English>
+	<Czech>Stará Luka</Czech>
+	<Russian>Стара Лука</Russian>
+	<Polish>Stara Luka</Polish>
+</Key>
+
+<Key ID="str_AES">
+	<English>NPP Treblyanka</English>
+	<Czech>JES Trebljanka</Czech>
+	<Russian>АЭС Треблянка</Russian>
+	<Polish>EJ Trebljanka</Polish>
+</Key>
+
+<Key ID="str_Nekmir">
+	<English>Nekmir</English>
+	<Czech>Nekmir</Czech>
+	<Russian>Некмир</Russian>
+	<Polish>Nekmir</Polish>
+</Key>
+
+<Key ID="str_lesik13">
+	<English>Vysoky Les</English>
+	<Czech>Vysoký Les</Czech>
+	<Russian>Высокой Лес</Russian>
+	<Polish>Wysoki las</Polish>
+</Key>
+
+<Key ID="str_krkav">
+	<English>Krkav</English>
+	<Czech>Krkav</Czech>
+	<Russian>Кркав</Russian>
+	<Polish>Krkaw</Polish>
+</Key>
+
+<Key ID="str_Branibor">
+	<English>Branibor</English>
+	<Czech>Branibor</Czech>
+	<Russian>Бранибор</Russian>
+	<Polish>Branibor</Polish>
+</Key>
+
+<Key ID="str_Topolka">
+	<English>Topolka</English>
+	<Czech>Topolka</Czech>
+	<Russian>Тополка</Russian>
+	<Polish>Topolka</Polish>
+</Key>
+
+<Key ID="str_Seven">
+	<English>Seven</English>
+	<Czech>Seven</Czech>
+	<Russian>Севен</Russian>
+	<Polish>Sewen</Polish>
+</Key>
+
+<Key ID="str_Blato">
+	<English>Blato</English>
+	<Czech>Blato</Czech>
+	<Russian>Блато</Russian>
+	<Polish>Blato</Polish>
+</Key>
+
+<Key ID="str_Zhabinka">
+	<English>Zhabinka</English>
+	<Czech>Žabinka</Czech>
+	<Russian>Жабинка</Russian>
+	<Polish>Żabinka</Polish>
+</Key>
+
+<Key ID="str_Marina">
+	<English>Marina</English>
+	<Czech>Marina</Czech>
+	<Russian>Марина</Russian>
+	<Polish>Marina</Polish>
+</Key>
+
+<Key ID="str_Kosovo">
+	<English>Kosovo</English>
+	<Czech>Kosovo</Czech>
+	<Russian>Косово</Russian>
+	<Polish>Kosowo</Polish>
+</Key>
+
+<Key ID="str_Vodice">
+	<English>Vodice</English>
+	<Czech>Vodice</Czech>
+	<Russian>Водице</Russian>
+	<Polish>Wodice</Polish>
+</Key>
+
+<Key ID="str_Nehaj">
+	<English>Nekhay</English>
+	<Czech>Nechaj</Czech>
+	<Russian>Нехай</Russian>
+	<Polish>Nechaj</Polish>
+</Key>
+
+<Key ID="str_rod">
+	<English>Gora Rod</English>
+	<Czech>Hora Rod</Czech>
+	<Russian>Гора Род</Russian>
+	<Polish>Góra Rod</Polish>
+</Key>
+<Key ID="str_geo">
+	<English>Castle Georgiev</English>
+	<Czech>Hrad Georgiev</Czech>
+	<Russian>Замок Георгиев</Russian>
+	<Polish>Gród Georgiev</Polish>
+</Key>
+
+<Key ID="str_sektor">
+	<English>Sector B</English>
+	<Czech>Sektor B</Czech>
+	<Russian>Сектор Б</Russian>
+	<Polish>Sektor B</Polish>
+</Key>
+
+<Key ID="str_krk">
+	<English>Isle Krk</English>
+	<Czech>Ostrov Krk</Czech>
+	<Russian>Остров Крк</Russian>
+	<Polish>Wyspa Krk</Polish>
+</Key>
+
+<Key ID="str_piran">
+	<English>Isle Piran</English>
+	<Czech>Ostrov Piran</Czech>
+	<Russian>Остров Пиран</Russian>
+	<Polish>Wyspa Piran</Polish>
+</Key>
+
+<Key ID="str_oliv">
+	<English>Isle Oliv</English>
+	<Czech>Ostrov Oliv</Czech>
+	<Russian>Остров Олив</Russian>
+	<Polish>Wyspa Oliw</Polish>
+</Key>
+
+<Key ID="str_miet">
+	<English>Isle Myet</English>
+	<Czech>Ostrov Mět</Czech>
+	<Russian>Остров Мет</Russian>
+	<Polish>Wyspa Miet</Polish>
+</Key>
+
+<Key ID="str_zoo">
+	<English>Taviana Zoo</English>
+	<Czech>Tavianské Zoo</Czech>
+	<Russian>Тавианский зоопарк</Russian>
+	<Polish>Tawianskie Zoo</Polish>
+</Key>
+
+<Key ID="str_vladimir">
+	<English>Vladimir</English>
+	<Czech>Vladimír</Czech>
+	<Russian>Владимир</Russian>
+	<Polish>Wladimir</Polish>
+</Key>
+
+<Key ID="str_silo">
+	<English>Silo</English>
+	<Czech>Silo</Czech>
+	<Russian>Силос</Russian>
+	<Polish>Silos</Polish>
+</Key>
+
+<Key ID="str_krivozhopol">
+	<English>Kryvozhopol</English>
+	<Czech>Křivožopol</Czech>
+	<Russian>Кривожополь</Russian>
+	<Polish>Krzywożopol</Polish>
+</Key>
+
+<Key ID="str_boleslava">
+	<English>Boleslava</English>
+	<Czech>Boleslava</Czech>
+	<Russian>Болеслава</Russian>
+	<Polish>Bolesława</Polish>
+</Key>
+
+<Key ID="str_bohdan">
+	<English>Bohdanyuvka</English>
+	<Czech>Bohdaňuvka</Czech>
+	<Russian>Богданювка</Russian>
+	<Polish>Bogdańuwka</Polish>
+</Key>
+
+<Key ID="str_vratnica">
+	<English>Vratnica</English>
+	<Czech>Vrátnica</Czech>
+	<Russian>Вратница</Russian>
+	<Polish>Wratnica</Polish>
+</Key>
+
+<Key ID="str_gostivar">
+	<English>Gostivar</English>
+	<Czech>Gostivar</Czech>
+	<Russian>Гостивар</Russian>
+	<Polish>Gostiwar</Polish>
+</Key>
+
+<Key ID="str_gord">
+	<English>Gord</English>
+	<Czech>Gord</Czech>
+	<Russian>Горд</Russian>
+	<Polish>Gord</Polish>
+</Key>
+
+<Key ID="str_bijsk">
+	<English>Biysk</English>
+	<Czech>Bijsk</Czech>
+	<Russian>Бийск</Russian>
+	<Polish>Bijsk</Polish>
+</Key>
+
+<Key ID="str_ilya">
+	<English>Ilya</English>
+	<Czech>Ilja</Czech>
+	<Russian>Иля</Russian>
+	<Polish>Ilja</Polish>
+</Key>
+
+<Key ID="str_alexandr">
+	<English>Alexander</English>
+	<Czech>Alexandr</Czech>
+	<Russian>Александр</Russian>
+	<Polish>Aleksandr</Polish>
+</Key>
+
+<Key ID="str_kiyala">
+	<English>Kiyala</English>
+	<Czech>Kijala</Czech>
+	<Russian>Кияла</Russian>
+	<Polish>Kijala</Polish>
+</Key>
+
+<Key ID="str_kozacok">
+	<English>Kozachok</English>
+	<Czech>Kozačok</Czech>
+	<Russian>Козачок</Russian>
+	<Polish>Kozaczok</Polish>
+</Key>
+
+<Key ID="str_lysa">
+	<English>Lysa Gora</English>
+	<Czech>Lysá Hora</Czech>
+	<Russian>Лысая Гора</Russian>
+	<Polish>Łysa Góra</Polish>
+</Key>
+
+<Key ID="str_duryn">
+	<English>Duryn</English>
+	<Czech>Duryň</Czech>
+	<Russian>Дурынь</Russian>
+	<Polish>Duryń</Polish>
+</Key>
+
+<Key ID="str_radobyl">
+	<English>Radobyl</English>
+	<Czech>Radobyl</Czech>
+	<Russian>Радобыл</Russian>
+	<Polish>radobył</Polish>
+</Key>
+
+<Key ID="str_bulbanya">
+	<English>Bulbanya</English>
+	<Czech>Bulbaňa</Czech>
+	<Russian>Бульбаня</Russian>
+	<Polish>Bulbania</Polish>
+</Key>
+
+<Key ID="str_yuzhnyj_sad">
+	<English>Yuzhny Sad</English>
+	<Czech>Jižní Sad</Czech>
+	<Russian>Южный Сад</Russian>
+	<Polish>Jużny Sad</Polish>
+</Key>
+
+<Key ID="str_grushnoe">
+	<English>Grushnoye</English>
+	<Czech>Grušnoje</Czech>
+	<Russian>Грушное</Russian>
+	<Polish>Grusznoje</Polish>
+</Key>
+
+<Key ID="str_bolsaja_plan">
+	<English>Bolshaya Plan'</English>
+	<Czech>Bolšaja Pláň</Czech>
+	<Russian>Большая Плань</Russian>
+	<Polish>Bolszaja Plań</Polish>
+</Key>
+
+<Key ID="str_lastochnikno_gnezdo">
+	<English>Swallow's Nest</English>
+	<Czech>Vlaštovčí Hnízdo</Czech>
+	<Russian>Ласточкино Гнездо</Russian>
+	<Polish>Jaskółcze Gniazdo</Polish>
+</Key>
+
+<Key ID="str_bronka">
+	<English>Bronka</English>
+	<Czech>Bronka</Czech>
+	<Russian>Бронка</Russian>
+	<Polish>Bronka</Polish>
+</Key>
+
+<Key ID="str_for2">
+	<English>Yama</English>
+	<Czech>Jáma</Czech>
+	<Russian>Яма</Russian>
+	<Polish>Jama</Polish>
+</Key>
+
+<Key ID="str_dead_forest">
+	<English>Dead Forest</English>
+	<Czech>Mrtvý Les</Czech>
+	<Russian>Мертвый Лес</Russian>
+	<Polish>Umarły Łas</Polish>
+</Key>
+
+<Key ID="str_izh">
+	<English>Izh</English>
+	<Czech>Iž</Czech>
+	<Russian>Иж</Russian>
+	<Polish>Iż</Polish>
+</Key>
+
+<Key ID="str_plashki">
+	<English>Plashki</English>
+	<Czech>Plašky</Czech>
+	<Russian>Плашкы</Russian>
+	<Polish>Plaszky</Polish>
+</Key>
+
+<Key ID="str_paklenica">
+	<English>Paklenica</English>
+	<Czech>Paklenica</Czech>
+	<Russian>Пакленица</Russian>
+	<Polish>Paklenica</Polish>
+</Key>
+
+<Key ID="str_les_sirach">
+	<English>Sirach</English>
+	<Czech>Les Sirač</Czech>
+	<Russian>Лес Сирач</Russian>
+	<Polish>Łas Siracz</Polish>
+</Key>
+
+<Key ID="str_klenivnik">
+	<English>Klenivnik</English>
+	<Czech>Klenivnik</Czech>
+	<Russian>Кленивник</Russian>
+	<Polish>Kleniwnik</Polish>
+</Key>
+
+<Key ID="str_zabak">
+	<English>Zhabak</English>
+	<Czech>Žabák</Czech>
+	<Russian>Жабак</Russian>
+	<Polish>Żabak</Polish>
+</Key>
+
+<Key ID="str_mikolaj">
+	<English>Mikolay</English>
+	<Czech>Mikolaj</Czech>
+	<Russian>Миколай</Russian>
+	<Polish>Mikolaj</Polish>
+</Key>
+
+<Key ID="str_oko">
+	<English>Oko</English>
+	<Czech>Oko</Czech>
+	<Russian>Око</Russian>
+	<Polish>Oko</Polish>
+</Key>
+
+<Key ID="str_rybnik">
+	<English>Rybnik</English>
+	<Czech>Rybník</Czech>
+	<Russian>Рыбник</Russian>
+	<Polish>Rybnik</Polish>
+</Key>
+
+<Key ID="str_baltskaja_guba">
+	<English>Baltskaya Guba</English>
+	<Czech>Baltskaja Guba</Czech>
+	<Russian>Балтская Губа</Russian>
+	<Polish>Baltskaja Guba</Polish>
+</Key>
+
+<Key ID="str_zelenyj_kilim">
+	<English>Zeleny Kilim</English>
+	<Czech>Zelený Koberec</Czech>
+	<Russian>Зеленый Килим</Russian>
+	<Polish>Zelenyj Kilim</Polish>
+</Key>
+
+<Key ID="str_sedoy">
+	<English>Sedoy</English>
+	<Czech>Sedoj</Czech>
+	<Russian>Седой</Russian>
+	<Polish>Sedoj</Polish>
+</Key>
+
+<Key ID="str_nagornoe">
+	<English>Nagornoye</English>
+	<Czech>Nagornoje</Czech>
+	<Russian>Нагорное</Russian>
+	<Polish>Nagornoie</Polish>
+</Key>
+
+<Key ID="str_vufelki">
+	<English>Vufelki</English>
+	<Czech>Vufelki</Czech>
+	<Russian>Вуфелки</Russian>
+	<Polish>Wufelki</Polish>
+</Key>
+
+<Key ID="str_ovisoj">
+	<English>Оvisoy</English>
+	<Czech>Ovisoj</Czech>
+	<Russian>Овисой</Russian>
+	<Polish>Owisoj</Polish>
+</Key>
+
+<Key ID="str_tlen">
+	<English>Tlen</English>
+	<Czech>Tlen</Czech>
+	<Russian>Тлен</Russian>
+	<Polish>Tlen</Polish>
+</Key>
+
+<Key ID="str_norilsk">
+	<English>Norilsk</English>
+	<Czech>Norilsk</Czech>
+	<Russian>Норилск</Russian>
+	<Polish>Norilsk</Polish>
+</Key>
+
+<Key ID="str_antonovka">
+	<English>Antonovka</English>
+	<Czech>Antonovka</Czech>
+	<Russian>Антоновка</Russian>
+	<Polish>Antonovka</Polish>
+</Key>
+
+<Key ID="str_varna">
+	<English>Varna</English>
+	<Czech>Varna</Czech>
+	<Russian>Варна</Russian>
+	<Polish>Warna</Polish>
+</Key>
+
+<Key ID="str_vishka">
+	<English>Vishka</English>
+	<Czech>Viška</Czech>
+	<Russian>Вишка</Russian>
+	<Polish>Wiszka</Polish>
+</Key>
+
+<Key ID="str_zagorye">
+	<English>Zagorye</English>
+	<Czech>Zagorje</Czech>
+	<Russian>Загорые</Russian>
+	<Polish>Zagorie</Polish>
+</Key>
+
+<Key ID="str_slavjansk">
+	<English>Slavyansk</English>
+	<Czech>Slavjansk</Czech>
+	<Russian>Славянск</Russian>
+	<Polish>Slawjansk</Polish>
+</Key>
+
+<Key ID="str_romanov">
+	<English>Romanov</English>
+	<Czech>Romanov</Czech>
+	<Russian>Романов</Russian>
+	<Polish>Romanow</Polish>
+</Key>
+
+<Key ID="str_luzin">
+	<English>Luzhin nad Olgoy</English>
+	<Czech>Lužin nad Olgoj</Czech>
+	<Russian>Лужин над Олгой</Russian>
+	<Polish>Lużin nad Olgoj</Polish>
+</Key>
+
+<Key ID="str_olga">
+	<English>Olga</English>
+	<Czech>Olga</Czech>
+	<Russian>Олга</Russian>
+	<Polish>Olga</Polish>
+</Key>
+
+<Key ID="str_svir">
+	<English>Svir</English>
+	<Czech>Svir</Czech>
+	<Russian>Свир</Russian>
+	<Polish>Swir</Polish>
+</Key>
+
+<Key ID="str_baranovka">
+	<English>Baranovka</English>
+	<Czech>Baranovka</Czech>
+	<Russian>Барановка</Russian>
+	<Polish>Baranowka</Polish>
+</Key>
+
+<Key ID="str_tarakansk_oil">
+	<English>Tarakansk Oil Fields 1</English>
+	<Czech>Ropné pole Tarakansk 1</Czech>
+	<Russian>Нефтяные поля Тараканск 1</Russian>
+	<Polish>Pole naftowe Tarakansk 1</Polish>
+</Key>
+
+<Key ID="str_tarakansk_oil2">
+	<English>Tarakansk Oil Fields 2</English>
+	<Czech>Ropné pole Tarakansk 2</Czech>
+	<Russian>Нефтяные поля Тараканск 2</Russian>
+	<Polish>Pole naftowe Tarakansk 2</Polish>
+</Key>
+
+<Key ID="str_tarakansk_oil3">
+	<English>Tarakansk Oil Storage</English>
+	<Czech>Skladiště ropy Tarakansk</Czech>
+	<Russian>Склад нефти Тараканск</Russian>
+	<Polish>Мagazyn nafty Tarakansk</Polish>
+</Key>
+
+<Key ID="str_tarakansk_military">
+	<English>Norilsk Military Base</English>
+	<Czech>Vojenská základna Norilsk</Czech>
+	<Russian>Военная база Норилск</Russian>
+	<Polish>Baza wojskowa Norilsk</Polish>
+</Key>
+
+<Key ID="str_tarakansk1">
+	<English>North Tarakansk</English>
+	<Czech>Severní Tarakansk</Czech>
+	<Russian>Северный Тараканск</Russian>
+	<Polish>Północny Tarakansk</Polish>
+</Key>
+
+<Key ID="str_tarakansk2">
+	<English>South Tarakansk</English>
+	<Czech>Jižní Tarakansk</Czech>
+	<Russian>Южный Тараканск</Russian>
+	<Polish>Południowy Tarakansk</Polish>
+</Key>
+
+<Key ID="str_milolaja">
+	<English>Church of St. Mikolay</English>
+	<Czech>Kostel Sv. Mikuláše</Czech>
+	<Russian>Церковь Св. Миколая</Russian>
+	<Polish>Kościół św Mikolaje</Polish>
+</Key>
+
+<Key ID="str_ostrov_hvar">
+	<English>Island Hvar</English>
+	<Czech>Ostrov Chvar</Czech>
+	<Russian>Остров Хвар</Russian>
+	<Polish>Wyspa Chwar</Polish>
+</Key>
+
+<Key ID="str_velika_luka">
+	<English>Velika Luka</English>
+	<Czech>Velika Luka</Czech>
+	<Russian>Велика Лука</Russian>
+	<Polish>Velika Luka</Polish>
+</Key>
+
+<Key ID="str_mala_luka">
+	<English>Mala Luka</English>
+	<Czech>Mala Luka</Czech>
+	<Russian>Мала Лука</Russian>
+	<Polish>Mala Luka</Polish>
+</Key>
+
+<Key ID="str_bashka_luka">
+	<English>Bashka Luka</English>
+	<Czech>Baška Luka</Czech>
+	<Russian>Башка Лука</Russian>
+	<Polish>Baszka Luka</Polish>
+</Key>
+
+<Key ID="str_stare_plashki">
+	<English>Stare Plashki</English>
+	<Czech>Stare Plaški</Czech>
+	<Russian>Старе Плашки</Russian>
+	<Polish>Stare Plaszki</Polish>
+</Key>
+<Key ID="str_pinsk">
+	<English>Island Pinsk</English>
+	<Czech>Ostrov Pinsk</Czech>
+	<Russian>Остров Пинск</Russian>
+	<Polish>Wyspa Pinsk</Polish>
+</Key>
+<Key ID="str_pskov">
+	<English>Island Pskov</English>
+	<Czech>Ostrov Pskov</Czech>
+	<Russian>Остров Псков</Russian>
+	<Polish>Wyspa Pskow</Polish>
+</Key>
+<Key ID="str_obsironsk">
+	<English>Apshironsk</English>
+	<Czech>Apšironsk</Czech>
+	<Russian>Апширонск</Russian>
+	<Polish>Apszironsk</Polish>
+</Key>
+
+<Key ID="str_blanik">
+	<English>Blanik</English>
+	<Czech>Blaník</Czech>
+	<Russian>Бланик</Russian>
+	<Polish>Błanik</Polish>
+</Key>
+
+<Key ID="str_zelena">
+	<English>Zelena Gora</English>
+	<Czech>Zelená Hora</Czech>
+	<Russian>Зеленая Гора</Russian>
+	<Polish>Zielona Góra</Polish>
+</Key>
+
+<Key ID="str_vrsinka">
+	<English>Vrshinka</English>
+	<Czech>Vršinka</Czech>
+	<Russian>Вршинка</Russian>
+	<Polish>Wrszynka</Polish>
+</Key>
+
+<Key ID="str_cech">
+	<English>Czech</English>
+	<Czech>Čech</Czech>
+	<Russian>Чех</Russian>
+	<Polish>Czech</Polish>
+</Key>
+
+<Key ID="str_lech">
+	<English>Leh</English>
+	<Czech>Lech</Czech>
+	<Russian>Лех</Russian>
+	<Polish>Lech</Polish>
+</Key>
+
+<Key ID="str_rus">
+	<English>Rus</English>
+	<Czech>Rus</Czech>
+	<Russian>Русь</Russian>
+	<Polish>Rus</Polish>
+</Key>
+
+<Key ID="str_krcin">
+	<English>Krchin</English>
+	<Czech>Krčin</Czech>
+	<Russian>Крчин</Russian>
+	<Polish>Krczyn</Polish>
+</Key>
+
+<Key ID="str_damba">
+	<English>9th of May dam</English>
+	<Czech>Přehrada 9 máje</Czech>
+	<Russian>Дамба 9 мая</Russian>
+	<Polish>Dam 9 maja</Polish>
+</Key>
+
+<Key ID="str_brasov">
+	<English>Brasov</English>
+	<Czech>Brasov</Czech>
+	<Russian>Брасов</Russian>
+	<Polish>Brasów</Polish>
+</Key>
+
+<Key ID="str_mostar">
+	<English>Mostar</English>
+	<Czech>Mostar</Czech>
+	<Russian>Мостар</Russian>
+	<Polish>Mostar</Polish>
+</Key>
+
+<Key ID="str_vladislav">
+	<English>Kozel</English>
+	<Czech>Kozel</Czech>
+	<Russian>Козел</Russian>
+	<Polish>Kozel</Polish>
+</Key>
+
+<Key ID="str_kraljevo">
+	<English>Kralyevo</English>
+	<Czech>Kraljevo</Czech>
+	<Russian>Кральево</Russian>
+	<Polish>Kraliewo</Polish>
+</Key>
+
+<Key ID="str_pavlovka">
+	<English>Pavlovka</English>
+	<Czech>Pavlovka</Czech>
+	<Russian>Павловка</Russian>
+	<Polish>Pawłowka</Polish>
+</Key>
+
+<Key ID="str_ciganovka">
+	<English>Ciganovka</English>
+	<Czech>Ciganovka</Czech>
+	<Russian>Цигановка</Russian>
+	<Polish>Ciganówka</Polish>
+</Key>
+
+<Key ID="str_simferopol">
+	<English>Stavropol</English>
+	<Czech>Stavropol</Czech>
+	<Russian>Ставрополь</Russian>
+	<Polish>Stawropol</Polish>
+</Key>
+
+<Key ID="str_michailov">
+	<English>Michaelov</English>
+	<Czech>Michaelov</Czech>
+	<Russian>Михаелов</Russian>
+	<Polish>Michaelów</Polish>
+</Key>
+
+<Key ID="str_karer">
+	<English>Iron ore open pit mine</English>
+	<Czech>Lom železné rudy</Czech>
+	<Russian>Карьер железной руды</Russian>
+	<Polish>Kamieniołom rudy żelaznej</Polish>
+</Key>
+
+<Key ID="str_saturn">
+	<English>Saturn Factory</English>
+	<Czech>Závod Saturn</Czech>
+	<Russian>Завод Сатурн</Russian>
+	<Polish>Fabryka Saturn</Polish>
+</Key>
+
+<Key ID="str_banska">
+	<English>Banska Bystrica</English>
+	<Czech>Banská Bystrica</Czech>
+	<Russian>Банска Быстрица</Russian>
+	<Polish>Banskа Bystrica</Polish>
+</Key>
+
+<Key ID="str_banska2">
+	<English>Nizhna Bystrica</English>
+	<Czech>Nižní Bystrica</Czech>
+	<Russian>Нижная Быстрица</Russian>
+	<Polish>Нiższа Bystrica</Polish>
+</Key>
+
+<Key ID="str_gerittburg">
+	<English>Gerittburg</English>
+	<Czech>Gerittburg</Czech>
+	<Russian>Геритбург</Russian>
+	<Polish>Gerittburg</Polish>
+</Key>
+
+<Key ID="str_lida">
+	<English>Lida</English>
+	<Czech>Lida</Czech>
+	<Russian>Лида</Russian>
+	<Polish>Lida</Polish>
+</Key>
+
+<Key ID="str_ziva">
+	<English>Zhiva</English>
+	<Czech>Živa</Czech>
+	<Russian>Жива</Russian>
+	<Polish>Żiwa</Polish>
+</Key>
+
+<Key ID="str_ostrovovisoj">
+	<English>Isle Ovisoy</English>
+	<Czech>Ostrov Ovisoj</Czech>
+	<Russian>Остров Овисой</Russian>
+	<Polish>Wyspa Owisoj</Polish>
+</Key>
+
+<Key ID="str_ostrovtrokut">
+	<English>Isle Trokut</English>
+	<Czech>Ostrov Trokut</Czech>
+	<Russian>Остров Трокут</Russian>
+	<Polish>Wyspa Trokut</Polish>
+</Key>
+
+<Key ID="str_zeleznaruda">
+	<English>Zheleznaya Ruda</English>
+	<Czech>Želeyná Ruda</Czech>
+	<Russian>Железная Руда</Russian>
+	<Polish>Żeleznaja Ruda</Polish>
+</Key>
+
+<Key ID="str_sektora">
+	<English>Sector A</English>
+	<Czech>Sektor A</Czech>
+	<Russian>Сектор А</Russian>
+	<Polish>Sektor A</Polish>
+</Key>
+
+<Key ID="str_utrech">
+	<English></English>
+	<Czech></Czech>
+	<Russian></Russian>
+	<Polish></Polish>
+</Key>
+
+<Key ID="str_orlik">
+	<English>Orlik</English>
+	<Czech>Orlik</Czech>
+	<Russian>Орлик</Russian>
+	<Polish>Orlik</Polish>
+</Key>
+
+<Key ID="str_slovanka">
+	<English>Slovanka</English>
+	<Czech>Slovanka</Czech>
+	<Russian>Славянка</Russian>
+	<Polish>Słowanka</Polish>
+</Key>
+
+</Package></Project>

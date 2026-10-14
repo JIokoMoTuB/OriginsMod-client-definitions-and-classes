@@ -1,0 +1,59 @@
+﻿<Project name="Arma2">
+  <Package name="GMS_MP40">
+    <Key ID="STR_MN_MP40">
+				<German>MP40 Magazine</German>
+				<English>MP40 Magazine</English>
+				<Italian>MP40 Magazine</Italian>
+				<Spanish>MP40 Magazine</Spanish>
+				<French>MP40 Magazine</French>
+				<Czech>MP40 Magazine</Czech>
+				<Russian>Магазин МП40 </Russian>
+				<Polish>MP40 Magazine</Polish>
+				<Hungarian>MP40 Magazine</Hungarian>
+   </Key>
+   <Key ID="STR_DSS_32RND_MP40">
+				<German>32 Rounds Magazine of MP40</German>
+				<English>32 Rounds Magazine of MP40</English>
+				<Italian>32 Rounds Magazine of MP40</Italian>
+				<Spanish>32 Rounds Magazine of MP40</Spanish>
+				<French>32 Rounds Magazine of MP40</French>
+				<Czech>32 Rounds Magazine of MP40</Czech>
+				<Russian>Магазин на 32 патрона к МП40</Russian>
+				<Polish>32 Rounds Magazine of MP40</Polish>
+				<Hungarian>32 Rounds Magazine of MP40</Hungarian>
+   </Key>
+   <Key ID="STR_DN_MP40">
+				<German>MP40</German>
+				<English>MP40</English>
+				<Italian>MP40</Italian>
+				<Spanish>MP40</Spanish>
+				<French>MP40</French>
+				<Czech>MP40</Czech>
+				<Russian>МП40</Russian>
+				<Polish>MP40</Polish>
+				<Hungarian>MP40</Hungarian>
+   </Key>
+   <Key ID="STR_DSS_MP40">
+				<German>Maschinenpistole 40</German>
+				<English>MP40 Submachinegun</English>
+				<Italian>MP40 Submachinegun</Italian>
+				<Spanish>MP40 Submachinegun</Spanish>
+				<French>MP40 Submachinegun</French>
+				<Czech>MP40 Submachinegun</Czech>
+				<Russian>Пистолет-пулемет МП40</Russian>
+				<Polish>MP40 Submachinegun</Polish>
+				<Hungarian>MP40 Submachinegun</Hungarian>
+   </Key>
+   <Key ID="STR_LIB_MP40">
+				<German>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</German>
+				<English>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</English>
+				<Italian>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</Italian>
+				<Spanish>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</Spanish>
+				<French>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</French>
+				<Czech>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</Czech>
+				<Russian>Пистолет-пулемет разработанный Генрихом Фоллмером, применялся в вооруженных силах Германии во время Второй Мировой Войны.</Russian>
+				<Polish>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</Polish>
+				<Hungarian>MP40 is a submachine gun developed in Nazi Germany and used extensively by paratroopers, platoon and squad leaders, and other troops during World War II.</Hungarian>
+   </Key>
+  </Package>
+</Project>

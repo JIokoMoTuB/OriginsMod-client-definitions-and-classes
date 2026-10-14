@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="OSShDY">
+<Package name="OSShDY">
+
+<Key ID="str_1_CD">
+	<English>OSShD-Y 1st Class (ČD)</English>
+	<Czech>OSŽD-Y 1 Třída (ČD)</Czech>
+	<Russian>ОСЖД-И 1 Класс (ЧД)</Russian>
+	<Polish>OSShD-Y 1 Klas (CZD)</Polish>
+</Key>
+
+<Key ID="str_2_CD">
+	<English>OSShD-Y 2st Class (ČD)</English>
+	<Czech>OSŽD-Y 2 Třída (ČD)</Czech>
+	<Russian>ОСЖД-И 2 Класс (ЧД)</Russian>
+	<Polish>OSShD-Y 2 Klas (CZD)</Polish>
+</Key>
+
+<Key ID="str_3_CD">
+	<English>OSShD-Y Post\Cargo (ČD)</English>
+	<Czech>OSŽD-Y Služební (ČD)</Czech>
+	<Russian>ОСЖД-И Почта\Груз (ЧД)</Russian>
+	<Polish>OSShD-Y Poczta\Towarowy (CZD)</Polish>
+</Key>
+
+<Key ID="str_1_Cher">
+	<English>OSShD-Y 1st Class (Chernarus)</English>
+	<Czech>OSŽD-Y 1 Třída (Černorus)</Czech>
+	<Russian>ОСЖД-И 1 Класс (Чернорусь)</Russian>
+	<Polish>OSShD-Y 1 Klas (Czernorus)</Polish>
+</Key>
+
+<Key ID="str_2_Cher">
+	<English>OSShD-Y 2st Class (Chernarus)</English>
+	<Czech>OSŽD-Y 2 Třída (Černorus)</Czech>
+	<Russian>ОСЖД-И 2 Класс (Чернорусь)</Russian>
+	<Polish>OSShD-Y 2 Klas (Czernorus)</Polish>
+</Key>
+
+<Key ID="str_3_Cher">
+	<English>OSShD-Y Post\Cargo (Chernarus)</English>
+	<Czech>OSŽD-Y Služební (Černorus)</Czech>
+	<Russian>ОСЖД-И Почта\Груз (Чернорусь)</Russian>
+	<Polish>OSShD-Y Poczta\Towarowy (Czernorus)</Polish>
+</Key>
+
+<Key ID="str_class">
+	<English>Trains</English>
+	<Czech>Vlaky</Czech>
+	<Russian>Поезды</Russian>
+	<Polish>Pociągi</Polish>
+</Key>
+
+</Package></Project>

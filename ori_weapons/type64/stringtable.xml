@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Origins Mod W">
+	 <Package name="Attachments">
+		<Key ID="STR_n_Item_1p29">
+		   <Original>1P29 scope</Original>
+		  <English>1P29 scope</English>
+		  <German>1P29 Zielfernrohr</German>
+		  <Russian>1P29 прицел</Russian>
+		</Key>
+		<Key ID="STR_d_Item_1p29">
+		   <Original>1P29 Soviet optic sight, adapted to the side rail mount.</Original>
+		  <English>1P29 Soviet optic sight, adapted to the side rail mount.</English>
+		  <German>1P29 Sovietisch optisch an der Seite der Halterung angepasst und verändert.</German>
+		  <Russian>1P29 Советский оптический прицел, адаптирован к боковой рейке.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_Acog">
+		   <Original>ACOG scope v1</Original>
+		  <English>ACOG scope v1</English>
+		  <German>ACOG Zielfernrohr v1</German>
+		  <Russian>Прицел ACOG v1</Russian>
+		</Key>
+		<Key ID="STR_n_Item_Acog2">
+		   <Original>ACOG scope v2</Original>
+		  <English>ACOG scope v2</English>
+		  <German>ACOG Zielfernrohr v2</German>
+		  <Russian>Прицел ACOG v2</Russian>
+		</Key>
+		<Key ID="STR_n_Item_Acog3">
+		   <Original>ACOG scope v3</Original>
+		  <English>ACOG scope v3</English>
+		  <German>ACOG Zielfernrohr v3</German>
+		  <Russian>Прицел ACOG v3</Russian>
+		</Key>
+		<Key ID="STR_n_Item_Acog4">
+		   <Original>ACOG scope v4</Original>
+		  <English>ACOG scope v4</English>
+		  <German>ACOG Zielfernrohr v4</German>
+		  <Russian>Прицел ACOG v4</Russian>
+		</Key>
+		<Key ID="STR_d_Item_Acog">
+		   <Original>NATO Advanced Combat Optical Gunsights (ACOG) telescopic rifle sight adapted to the side rail mount.</Original>
+		  <English>NATO Advanced Combat Optical Gunsights (ACOG) telescopic rifle sight adapted to the side rail mount.</English>
+		  <German>NATO Advanced combat Optical Gunsights (ACOG) Teleskop auf der Seite der Schiene angepasst.</German>
+		  <Russian>НАТО телескопический прицел винтовки, приспособлен к боковой рейке.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_Aimpoint">
+		   <Original>Aimpoint scope</Original>
+		  <English>Aimpoint scope</English>
+		  <German>Aimpoint Zielfernrohr</German>
+		  <Russian>Прицел Aimpoint</Russian>
+		</Key>
+		<Key ID="STR_d_Item_Aimpoint">
+		   <Original>Aimpoint red dot non-magnifying reflector rifle sight adapted to the side rail mount.</Original>
+		  <English>Aimpoint red dot non-magnifying reflector rifle sight adapted to the side rail mount.</English>
+		  <German>Rotpunkt nicht Vergrößerungs Visir reflektor auf der Seite der Schiene angepasst.</German>
+		  <Russian>Прицел Aimpoint красная точка, без увеличения, приспособлен к боковой рейке.</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Item_AUG">
+		   <Original>AUG scope</Original>
+		  <English>AUG scope</English>
+		  <German>AUG Zielfernrohr</German>
+		  <Russian>Прицел AUG</Russian>
+		</Key>
+		<Key ID="STR_d_Item_AUG">
+		   <Original>Australian Steyr AUG optical sight.</Original>
+		  <English>Australian Steyr AUG optical sight.</English>
+		  <German>Australian Steyr AUG rotpunkt optisches Waffenvisir.</German>
+		  <Russian>Австралийский Steyr AUG оптический прицел.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_ELCAN">
+		   <Original>ELCAN scope</Original>
+		  <English>ELCAN scope</English>
+		  <German>ELCAN Zielfernrohr</German>
+		  <Russian>Прицел ELCAN</Russian>
+		</Key>
+		<Key ID="STR_d_Item_ELCAN">
+		   <Original>Australian ELCAN optical rifle sight (Steyr AUG).</Original>
+		  <English>Australian ELCAN optical rifle sight (Steyr AUG).</English>
+		  <German>Australian ELCAN optisches Waffenvisir (Steyr AUG).</German>
+		  <Russian>Австралийский Steyr AUG Elcan оптический прицел.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_EOT">
+		   <Original>EOT scope</Original>
+		  <English>EOT scope</English>
+		  <German>EOT Zielfernrohr</German>
+		  <Russian>Прицел EOT</Russian>
+		</Key>
+		<Key ID="STR_d_Item_EOT">
+		   <Original>FAMAS EOT holographic rifle sight.</Original>
+		  <English>FAMAS EOT holographic rifle sight.</English>
+		  <German>FAMAS EOT holographisches optisches Waffenvisir.</German>
+		  <Russian>FAMAS EOT  голографический прицел винтовки.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_Kobra">
+		   <Original>Kobra scope</Original>
+		  <English>Kobra scope</English>
+		  <German>Kobra Zielfernrohr</German>
+		  <Russian>Прицел Кобра</Russian>
+		</Key>
+		<Key ID="STR_d_Item_Kobra">
+		   <Original>Russian kobra red dot non-magnifying reflector rifle sight.</Original>
+		  <English>Russian kobra red dot non-magnifying reflector rifle sight.</English>
+		  <German>Russisches Kobra rotpunkt nicht Vergrößerungs Visir optisches Waffenvisir.</German>
+		  <Russian>Русский Кобра красная точка, без увеличения, рефлекторный прицел.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_M203">
+		   <Original>NATO G.launcher M203</Original>
+		  <English>NATO G.launcher M203</English>
+		  <German>Granatenwerfer M203</German>
+		  <Russian>НАТО П.Г. М203</Russian>
+		</Key>
+		<Key ID="STR_d_Item_M203">
+		   <Original>NATO m203 under barrel grenade launcher.</Original>
+		  <English>NATO m203 under barrel grenade launcher.</English>
+		  <German>NATO m203 under barrel grenade launcher.</German>
+		  <Russian>НАТО M203 подствольный гранатомёт.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_GP25">
+		   <Original>G.launcher GP-30</Original>
+		  <English>G.launcher GP-30</English>
+		  <German>Granatenwerfer GP-30</German>
+		  <Russian>ГП-30</Russian>
+		</Key>
+		<Key ID="STR_d_Item_GP25">
+		   <Original>Soviet GP-30 Obuvka under barrel grenade launcher.</Original>
+		  <English>Soviet GP-30 Obuvka under barrel grenade launcher.</English>
+		  <German>Sovietische GP-30 Obuvka unterlauf Granatwerfer.</German>
+		  <Russian>ГП-30 Обувка подствольный гранатомёт.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_PSO">
+		   <Original>PSO scope</Original>
+		  <English>PSO scope</English>
+		  <German>PSO Zielfernrohr</German>
+		  <Russian>Прицел PSO</Russian>
+		</Key>
+		<Key ID="STR_d_Item_PSO">
+		   <Original>Russian PSO telescopic rifle sight.</Original>
+		  <English>Russian PSO telescopic rifle sight.</English>
+		  <German>Russisches PSO-1 Visir optisches Waffenvisir.</German>
+		  <Russian>Русский телескопический прицел ПСО.</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_Silencer">
+		   <Original>Silencer</Original>
+		  <English>Silencer</English>
+		  <German>Schalldämpfer</German>
+		  <Russian>Глушитель</Russian>
+		</Key>
+		<Key ID="STR_d_Item_Silencer">
+		   <Original>Standard fire arms sound suppressor.</Original>
+		  <English>Standard fire arms sound suppressor.</English>
+		  <German>Standard Schusswaffen sound dämpfer.</German>
+		  <Russian>Стандартный глушитель.</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Item_Holo">
+		   <Original>Holographic sight</Original><English>Holographic sight</English>
+		  <German>Holographic Sicht</German>
+		  <Russian>Голографический прицел</Russian>
+		</Key>
+		<Key ID="STR_d_Item_Holo">
+		   <Original>NATO Holographic weapon sight</Original><English>NATO Holographic weapon sight</English>
+		  <German>NATO holographische Waffen</German>
+		  <Russian>НАТО Голографический оруженый прицел</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Item_NSPU">
+		   <Original>NSPU scope</Original><English>NSPU scope</English>
+		  <German>NSPU Zielfernrohr</German>
+		  <Russian>НСПУ прицел</Russian>
+		</Key>
+		<Key ID="STR_d_Item_NSPU">
+		   <Original>Soviet night vision scope</Original><English>Soviet night vision scope</English>
+		  <German>Sowjetnachtsichtbereich.</German>
+		  <Russian>Советский прицел ночного видения.</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Item_anpvs4">
+		   <Original>Anpvs4 sight</Original><English>Anpvs4 sight</English>
+		  <German>Anpvs4 Sicht</German>
+		  <Russian>Anpvs4 прицел</Russian>
+		</Key>
+		<Key ID="STR_d_Item_anpvs4">
+		   <Original>NATO Night Vision Sight</Original><English>NATO Night Vision Sight</English>
+		  <German>NATO Night Vision Sight</German>
+		  <Russian>НАТО Прицел ночного видения</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Naves_on">
+		   <Original>Attach </Original><English>Attach </English>
+		  <German>Anfügen </German>
+		  <Russian>Прикрепить </Russian>
+		</Key>
+		<Key ID="STR_n_naves_off">
+		   <Original>Detach </Original><English>Detach </English>
+		  <German>Ablösen </German>
+		  <Russian>Снять</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Item_HuntS">
+		   <Original>Hunting scope</Original><English>Hunting scope</English>
+		  <German>Jagdbereich</German>
+		  <Russian>Охотничий прицел</Russian>
+		</Key>
+		<Key ID="STR_d_Item_HuntS">
+		   <Original>Riflescopes is ideal for those who hunt with H.rifles or K98</Original><English>Riflescopes is ideal for those who hunt with H.rifles or K98</English>
+		  <German>Zielfernrohre ist ideal für diejenigen, die mit H.rifles oder K98 jagen</German>
+		  <Russian>Прицел идеально подходит для тех, кто охотятся с H.rifles или K98</Russian>
+		</Key>
+		
+		<Key ID="STR_cant_detach">
+		   <Original>Cannot be detached</Original><English>Cannot be detached</English>
+		  <German>Kann nicht abgenommen werden.</German>
+		  <Russian>Невозможно снять</Russian>
+		</Key>
+
+		<Key ID="STR_same_scope">
+		   <Original>%1 is already mounted.</Original><English>%1 is already mounted.</English>
+		  <German>%1 ist bereits angebracht.</German>
+		  <Russian>%1 уже установлен.</Russian>
+		</Key>
+
+		<Key ID="STR_scope_wrong">
+		   <Original>%1 is incompatible with this weapon.</Original><English>%1 is incompatible with this weapon.</English>
+		  <German> %1 nicht kompatibel mit dieser Waffe.</German>
+		  <Russian>%1 не совместим с этой модификацией оружия.</Russian>
+		</Key>
+		
+		<Key ID="STR_q_ivan1">
+		   <Original>Talk to Ivan.</Original><English>Talk to Ivan.</English>
+		  <German> Sprich mit Ivan</German>
+		  <Russian>Поговорить с Иваном</Russian>
+		</Key>
+
+
+		<Key ID="STR_q_ivan2">
+		   <Original>What are you sniffing around here for you port rat, huh?</Original><English>What are you sniffing around here for you port rat, huh?</English>
+		  <German>Was schnüffelst du hier in der Gegend rum, du Kanalratte?</German>
+		  <Russian>Ты что тут ищешь, портовая крыса, a?</Russian>
+		</Key>
+
+
+		<Key ID="STR_q_ivan3">
+		   <Original>I need some modifications done to my rifle, I heard that your brother is the best gun smith around.</Original><English>I need some modifications done to my rifle, I heard that your brother is the best gun smith around.</English>
+		  <German>Ich brauche ein paar Modifikationen für meine Waffe. Ich habe gehört dass dein Bruder der beste Waffenhersteller in der Gegend ist.</German>
+		  <Russian>Мне нужно сделать модификацию на пушке, я слышал ваш брат самый лучший мастер поэтому делу.</Russian>
+		</Key>
+
+
+		<Key ID="STR_q_ivan4">
+		   <Original>And what makes you think that I won’t send you to hell? Get the hell out of here! </Original><English>And what makes you think that I won’t send you to hell? Get the hell out of here! </English>
+		  <German>Und was lässt dich glauben, dass ich dich nicht unter die Erde schicken werde? Schieb deinen Hintern hier raus!</German>
+		  <Russian>A почему ты не подумал, что я тебя на хрен не пошлю? Вали отсюда к морскому дъяволу!</Russian>
+		</Key>
+
+
+		<Key ID="STR_q_ivan5">
+		   <Original>I brought you some food and drink, comrade captain!</Original><English>I brought you some food and drink, comrade captain!</English>
+		  <German>Ich habe Ihnen etwas zu essen und trinken gebracht, Captain.</German>
+		  <Russian>Я принес еды и выпивки, товарищ капитан!</Russian>
+		</Key>
+
+
+		<Key ID="STR_q_ivan6">
+		   <Original>Well I’ll be damned, how the hell do you know I’m a captain?!</Original><English>Well I’ll be damned, how the hell do you know I’m a captain?!</English>
+		  <German>Verdammt, ich bin dran. Wie zum Teufel kannst du wissen, dass ich Captain bin?</German>
+		  <Russian>Разрази меня гром, ты откуда знаешь, что я капитан?!</Russian>
+		</Key>
+
+		<Key ID="STR_q_ivan7">
+		   <Original>I noticed the tattoo on your shoulder.</Original><English>I noticed the tattoo on your shoulder.</English>
+		  <German>Mir ist das Tattoo auf deiner Schulter aufgefallen.</German>
+		  <Russian>Заметил татуировку на руке.</Russian>
+		</Key>
+
+
+		<Key ID="STR_q_ivan8">
+		   <Original>Well I’ll be damned, fine give me the stuff.</Original><English>Well I’ll be damned, fine give me the stuff.</English>
+		  <German>Möge ich verflucht sein. Also gut, gib mir deine Ware.</German>
+		  <Russian>Ну ничего себе! Ладно, давай сюда припасы.</Russian>
+		</Key>
+
+		<Key ID="STR_q_ivan9">
+		   <Original>Give food and drinks to the captain</Original><English>Give food and drinks to the captain</English>
+		  <German>Gib das Essen und Trinken dem Captain.</German>
+		  <Russian>Отдать еду и выпивку капитану</Russian>
+		</Key>
+
+		<Key ID="STR_q_ivan10">
+		   <Original>You still here? Move your arse! </Original><English>You still here? Move your arse! </English>
+		  <German>Du bist ja immernoch da? Beweg deinen Arsch!</German>
+		  <Russian>Ты еще тут? Быстрее неси!</Russian>
+		</Key>
+
+		<Key ID="STR_q_ivan11">
+		   <Original>God damn that’s good! You’ll find my bother at these coordinates %1.</Original><English>God damn that’s good! You’ll find my bother at these coordinates %1.</English>
+		  <German>Verdammt, das ist der Hammer! Du findest meinen Bruder bei diesen Koordinaten: %1</German>
+		  <Russian>Тысяча чертей! Брата моего найдешь по этим координатам %1</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor1">
+		   <Original>Talk to Igor</Original><English>Talk to Igor</English>
+		  <German>Sprechen mit Igor</German>
+		  <Russian>Поговорить с Игорем</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor2">
+		   <Original>Oh thank God I met a survivour.</Original><English>Oh thank God I met a survivour.</English>
+		  <German>Oh Gott sei dank ich habe einen Überlebenden getroffen.</German>
+		  <Russian>Как хорошо, что я встретил выжившего.</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor3">
+		   <Original>What are you looking for here?</Original><English>What are you looking for here?</English>
+		  <German>Nach was suchst du hier?</German>
+		  <Russian>А что вы здесь ищите?</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor4">
+		   <Original>I’ve been looking for materials to repair my boat for a long time. Here is a list of what I need %1, and what are you doing here?</Original><English>I’ve been looking for materials to repair my boat for a long time. Here is a list of what I need %1, and what are you doing here?</English>
+		  <German>Ich suche seit einer langen Zeit nach Materialien um mein boot zu reparieren, Hier ist eine list von dem Was ich brauche %1, und was machst du hier?</German>
+		  <Russian>Я уже долгое время ищу материалы для  моего корабля. %1.  А вы что тут делаете?</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor5">
+		   <Original>I’ve been sent by Ivan, I want to modify my weapon.</Original><English>I’ve been sent by Ivan, I want to modify my weapon.</English>
+		  <German>Ivan hat mich geschickt, ich möchte meine Waffe modifizieren.</German>
+		  <Russian>Я пришёл от Ивана, хочу улучшить оружие.</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor6">
+		   <Original>I’m looking for someone who can help me modify my weapon.</Original><English>I’m looking for someone who can help me modify my weapon.</English>
+		  <German>Ich suche jemanden der mir helfen kann meine Waffe zu modifizieren.</German>
+		  <Russian>Я ищу человека, который мог бы мне улучшить оружие.</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor7">
+		   <Original>I can help you, what kind of weapon do you want to create?</Original><English>I can help you, what kind of weapon do you want to create?</English>
+		  <German>Ich kann dir helfen, welche art von Waffe soll ich modifizieren?</German>
+		  <Russian>Я могу вам помочь. Какое оружие вы хотите сделать?</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor8">
+		   <Original>Carry out %1</Original><English>Carry out %1</English>
+		  <German>Machen %1</German>
+		  <Russian>Сделай %1</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor9">
+		   <Original>Put these materials in to my box and I'll try to help you. Each try will cost you %1pack of screws.</Original><English>Put these materials in to my box and I'll try to help you. Each try will cost you %1pack of screws.</English>
+		  <German>Lege diese Materialien in meine Box und ich werde versuchen dir zu helfen. Jeder Versuch kostet dich %1 Schraube(n)</German>
+		  <Russian>Положи мне в коробку эти материалы и я попробую тебе помочь, каждая попытка будет стоить тебе %1пачки болтов.</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor10">
+		   <Original>Damn it, I messed up.</Original><English>Damn it, I messed up.</English>
+		  <German>Verdammt,ich habe versagt.</German>
+		  <Russian>Эх, вышла промашка</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor11">
+		   <Original>Success! Take your weapon from my chest.</Original><English>Success! Take your weapon from my chest.</English>
+		  <German>Erfolg! Nimm die Waffe aus meiner Kiste.</German>
+		  <Russian>Всё отлично получилось, возмите ваше оружие в моём сундуке</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor12">
+		   <Original>Talk about the sniper rifle in detail. </Original><English>Talk about the sniper rifle in detail. </English>
+		  <German>Rede detailliert über das Scharfschützengewehr</German>
+		  <Russian>Поговорить о деталях от снайперской винтовки</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor13">
+		   <Original>I found a few variations of that weapon. </Original><English>I found a few variations of that weapon. </English>
+		  <German>Ich habe einige Varianten von dieser Waffen</German>
+		  <Russian>Я находил несколько видов такого оружия</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor14">
+		   <Original>Sniper rifle name</Original><English>Sniper rifle name</English>
+		  <German>Name des Scharfschützengewehrs</German>
+		  <Russian>Название снайперской винтовки</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor15">
+		   <Original>To put together this sniper rifle I need:</Original><English>To put together this sniper rifle I need:</English>
+		  <German>Um dieses Scharfschützengewehr zu reparieren brauche ich:</German>
+		  <Russian>Для сборки этой снайперской винтовки мне нужно :</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor16">
+		   <Original>Give materials</Original><English>Give materials</English>
+		  <German>Gebe Materialien</German>
+		  <Russian>Отдать материалы</Russian>
+		</Key>
+
+
+
+
+		<Key ID="STR_q_igor17">
+		   <Original>I want to repair my weapon</Original><English>I want to repair my weapon</English>
+		  <German>Ich möchte meine Waffe reparieren.</German>
+		  <Russian>Хочу починить оружие</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor18">
+		   <Original>Bring me these materials and I will try to help you, every try will cost you a pack of screws.</Original><English>Bring me these materials and I will try to help you, every try will cost you a pack of screws.</English>
+		  <German>Bring mir diese Materialien und ich werde versuchen dir zu helfen,aber jeder versuch kostet dich eine Packung Schrauben</German>
+		  <Russian>Что бы помочь тебе, мне нужны эти материалы, каждая попытка будет стоить одной пачки болтов</Russian>
+		</Key>
+		
+		<Key ID="STR_n_ori_no_pray">
+			<Original>You have already prayed today.</Original><English>You have already prayed today.</English>
+			<German>Du hast heute schon gebetet.</German>
+			<Russian>Вы уже молились сегодня.</Russian>
+		</Key>
+
+		<Key ID="STR_n_ori_pray">
+			<Original>Pray</Original><English>Pray</English>
+			<German>Beten</German>
+			<Russian>Молиться</Russian>
+		</Key>
+
+		<Key ID="STR_q_igor19">
+		   <Original>Put everything in my chest.</Original><English>Put everything in my chest.</English>
+		  <German>Leg alles in meine Kiste.</German>
+		  <Russian>Положи все, что я просил в мою коробку</Russian>
+		</Key>
+		
+		<Key ID="STR_n_Pecheneg_Ori">
+		   <Original>PKP Pecheneg</Original><English>PKP Pecheneg</English>
+		  <German>PKP Pecheneg</German>
+		  <Russian>ПКП Печенег</Russian>
+		</Key>
+		<Key ID="STR_n_Pecheneg_Ori_b">
+		   <Original>PKP Pecheneg (Broken)</Original><English>PKP Pecheneg (Broken)</English>
+		  <German>PKP Pecheneg (Broken)</German>
+		  <Russian>ПКП Печенег(Сломан)</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_FRF2_1">
+		   <Original>Unknown gun parts</Original><English>Unknown gun parts</English>
+		  <German>Unbekannte Waffenteile</German>
+		  <Russian>Части неизвестного оружия</Russian>
+		</Key>
+		<Key ID="STR_d_Item_FRF2_1">
+		   <Original>Unreadable serial/model number: F_s_l F_ _od</Original><English>Unreadable serial/model number: F_s_l F_ _od</English>
+		  <German>Unleserliche Serien-/Modellnummer : F_s_l F_ _od</German>
+		  <Russian>Неразборчивый номер модели: F_s_l F_ _od</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_GM_762_1">
+		   <Original>Unknown gun parts</Original><English>Unknown gun parts</English>
+		  <German>Unbekannte Waffenteile</German>
+		  <Russian>Части неизвестного оружия</Russian>
+		</Key>
+		<Key ID="STR_d_Item_GM_762_1">
+		   <Original>Unreadable serial/model number:  G__7_2 _D _o_</Original><English>Unreadable serial/model number:  G__7_2 _D _o_</English>
+		  <German>Unleserliche Serien-/Modellnummer:  G__7_2 _D _o_</German>
+		  <Russian>Неразборчивый номер модели:  G__7_2 _D _o_</Russian>
+		</Key>
+
+		<Key ID="STR_n_Item_Tp64_1">
+		   <Original>Unknown gun parts</Original><English>Unknown gun parts</English>
+		  <German>Unbekannte Waffenteile</German>
+		  <Russian>Части неизвестного оружия</Russian>
+		</Key>
+		<Key ID="STR_d_Item_Tp64_1">
+		   <Original>Unreadable serial/model number:  _yp_ _4-S</Original><English>Unreadable serial/model number:  _yp_ _4-S</English>
+		  <German>Unleserliche Serien-/Modellnummer:  _yp_ _4-S</German>
+		  <Russian>Неразборчивый номер модели:  _yp_ _4-S</Russian>
+		</Key>
+	</Package>
+</Project>

@@ -1,0 +1,79 @@
+LANGUAGE,English
+
+STR_aawSteyrF88,F88 AUG
+STR_aawSteyrF88C,F88 Carbine 
+STR_aawSteyrF88GLA,F88 AUG GLA 
+
+STR_aawSteyrF88sAIM,F88 AIMPOINT 
+STR_aawSteyrF88sAIMC,F88 AIMPOINT Carbine 
+STR_aawSteyrF88sAIMGLA,F88 AIMPOINT GLA 
+
+STR_aawSteyrF88s15,F88 1.5x 
+STR_aawSteyrF88s15C,F88 1.5x Carbine 
+STR_aawSteyrF88s15GLA,F88 1.5x GLA 
+
+STR_aawSteyrF88sACOG,F88 ACOG V1
+STR_aawSteyrF88sACOGC,F88 ACOG Carbine 
+STR_aawSteyrF88sACOGGLA,F88 ACOG V1 GLA 
+
+STR_aawSteyrF88sELCAN,F88 ELCAN 
+STR_aawSteyrF88sELCANC,F88 ELCAN Carbine 
+STR_aawSteyrF88sELCANGLA,F88 ELCAN GLA 
+
+STR_aawSteyrF88IW,F88 (NZDF)
+STR_aawSteyrF88IWC,F88 Carbine (NZDF)
+STR_aawSteyrF88IWGLA,F88 GLA (NZDF)
+
+STR_aawF89,F89
+STR_aawF89_ELCAN,F89 ELCAN
+STR_aawF89_ACOG,F89 ACOG
+STR_aawF89_15S,F89 15S
+STR_aawF89_AIM,F89 AIMPOINT
+
+STR_aawMag58,Mag 58
+STR_aawMag58_ELCAN,Mag 58 ELCAN
+STR_aawMag58_ACOG,Mag 58 ACOG
+STR_aawMag58_15s,Mag 58 15s
+STR_aawMag58_AIM,Mag 58 AIMPOINT
+
+STR_aawm72a6,M72a6
+
+STR_aawF1_grenade,F1 Grenade
+
+STR_aawSteyrF88glaMuzzle,GLA Launcher
+
+STR_aawWpnsBox_F88_1,AAW Wpns Crate - Steyrs
+
+STR_LIB_aawSteyrF88,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The standard F88 features a 1.5 magnification sight."
+STR_LIB_aawSteyrF88C,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988.<br/>The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine. The standard F88 features a 1.5 magnification sight.<br/>The F88C is a carbine version of the F88 featuring a shorter barrel and is generally used for soldiers working in confined spaces such as armored or mechanized crew."
+STR_LIB_aawSteyrF88GLA,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The standard F88 features a 1.5 magnification sight.<br/>The F88 GLA removes the bayonet lug and fore grip from the F88 allowing for a M203 PI 40mm grenade launcher to be attached. The GLA features a quadrant sight using a red dot aim point."
+STR_LIB_aawSteyrF88sAIM,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88."
+STR_LIB_aawSteyrF88sAIMC,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88C is a carbine version of the F88 featuring a shorter barrel and is generally used for soldiers working in confined spaces such as armored or mechanized crew."
+STR_LIB_aawSteyrF88sAIMGLA,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88S GLA removes the bayonet lug and fore grip from the F88 allowing for a M203 PI 40mm grenade launcher to be attached. The GLA features a quadrant sight using a red dot aim point."
+STR_LIB_aawSteyrF88s15,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88."
+STR_LIB_aawSteyrF88s15C,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88C is a carbine version of the F88 featuring a shorter barrel and is generally used for soldiers working in confined spaces such as armored or mechanized crew."
+STR_LIB_aawSteyrF88s15GLA,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88S GLA removes the bayonet lug and fore grip from the F88 allowing for a M203 PI 40mm grenade launcher to be attached. The GLA features a quadrant sight using a red dot aim point."
+STR_LIB_aawSteyrF88sACOG,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88."
+STR_LIB_aawSteyrF88sACOGC,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88C is a carbine version of the F88 featuring a shorter barrel and is generally used for soldiers working in confined spaces such as armored or mechanized crew."
+STR_LIB_aawSteyrF88sACOGGLA,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88S GLA removes the bayonet lug and fore grip from the F88 allowing for a M203 PI 40mm grenade launcher to be attached. The GLA features a quadrant sight using a red dot aim point."
+STR_LIB_aawSteyrF88sELCAN,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88."
+STR_LIB_aawSteyrF88sELCANC,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88C is a carbine version of the F88 featuring a shorter barrel and is generally used for soldiers working in confined spaces such as armored or mechanized crew."
+STR_LIB_aawSteyrF88sELCANGLA,"The F88 Austeyr is a derivative of the Steyr Aug manufactured by Australian Defence Industries in Lithgow, New South Wales. The F88 replaced the L1A1 SLR in 1988. The F88 fires a 5.56x45mm NATO round fed into the weapon by a 30 round magazine.<br/>The F88S features a picatinny rail in place of the standard 1.5 optic. This allows for the attachment of various other weapon sights to the F88.<br/>The F88S GLA removes the bayonet lug and fore grip from the F88 allowing for a M203 PI 40mm grenade launcher to be attached. The GLA features a quadrant sight using a red dot aim point."
+STR_LIB_aawSteyrF88IW,The Individual Weapon (IW) Steyr is a 5.56mm assault rifle and is the primary small arms weapon used by the NZDF (New Zealand Defence Force).<br/>It is made in Australia under licence by Australian Defence Industries (ADI) Lithgow.
+STR_LIB_aawSteyrF88IWC,The Individual Weapon (IW) Steyr is a 5.56mm assault rifle and is the primary small arms weapon used by the NZDF (New Zealand Defence Force).<br/>It is made in Australia under licence by Australian Defence Industries (ADI) Lithgow.<br/>The IW Carbine features a shorter barrel and is gennerally used for crew members working in confined spaces.
+STR_LIB_aawSteyrF88IWGLA,The Individual Weapon (IW) Steyr is a 5.56mm assault rifle and is the primary small arms weapon used by the NZDF (New Zealand Defence Force).<br/>It is made in Australia under licence by Australian Defence Industries (ADI) Lithgow.<br/>The IW GLA removes the bayonet lug and fore grip from the IW allowing for a M203 PI 40mm grenade launcher to be attached. The GLA features a quadrant sight using a red dot aim point.
+STR_LIB_aawF89,
+STR_LIB_aawF89_ELCAN,
+STR_LIB_aawF89_ACOG,
+STR_LIB_aawF89_15S,
+STR_LIB_aawF89_AIM,
+STR_LIB_aawMag58,
+STR_LIB_aawMag58_ELCAN,
+STR_LIB_aawMag58_ACOG,
+STR_LIB_aawMag58_15s,
+STR_LIB_aawMag58_AIM,
+
+STR_LIB_aawm72a6,
+STR_LIB_aawF1_grenade,
+
+STR_LIB_aaw30Rnd_SteyrMag,"The F88 is fed from a detachable box magazine, that holds 30 rounds.The magazines are made from semi-translucent, strong polymer."
